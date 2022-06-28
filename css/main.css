@@ -1,0 +1,262 @@
+/* Copyright (c) 2022-Present GamerCoder215. All Rights Reserved. */
+
+/* Light & Dark Vars */
+
+:root {
+    --scroll-amount: 0;
+
+    --bg: #fff;
+    --bg-2: #f1f1f1;
+    --logo-border: 2px black solid;
+    --text: black;
+    --subtitle: gray;
+    --color-text: darkgreen;
+    --link-color: lightgray;
+    --shadow: 0 10px 20px -5px rgb(169, 169, 169);
+
+    --links: linear-gradient(to top, #eaeaea 0%, white 100%);
+    --links-gradient: linear-gradient(to right, white 0%, rgba(255, 255, 255, 0) 100%);
+}
+
+[data-theme="dark"] {
+    --scroll-amount: 0;
+
+    --bg: #2a2a2a;
+    --bg-2: #1a1a1a;
+    --logo-border: 2px white solid;
+    --text: #fff;
+    --subtitle: #f8f8f8;
+    --color-text: greenyellow;
+    --link-color: darkgray;
+    --shadow: 0 10px 20px -5px rgb(0, 0, 0);
+
+    --links: linear-gradient(to top, #3f3e3e 0%, #2a2a2a 100%);
+    --links-gradient: linear-gradient(to right, #2a2a2a 0%, rgba(0, 0, 0, 0) 100%);
+}
+
+/* CSS */
+
+@keyframes fadeIn {
+    from {
+        opacity: 0.5;
+    }
+    to {
+        opacity: 1;
+    }
+}
+
+html {
+    overflow-y: hidden;
+}
+
+body {
+    overflow-y: scroll;
+}
+
+html, body {
+    overflow-x: hidden;
+    font-family: "Segoe UI", Helvetica, Arial, sans-serif;
+    height: 100%;
+    width: 100%;
+    background: var(--bg);
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    color: var(--link-color);
+}
+
+.logo {
+    width: 10%;
+    height: auto;
+    min-width: 64px;
+    min-height: 64px;
+    border-radius: 50%;
+    margin: 2vh auto 0;
+    display: block;
+    border: var(--logo-border);
+    transition: transform 0.5s ease-in-out;
+}
+
+.logo:hover {
+    transition: transform 0.5s ease-in-out;
+    transform: scale(1.1);
+}
+
+#theme-icon {
+    height: auto;
+    width: 5%;
+    min-width: 32px;
+    min-height: 32px;
+    max-width: 64px;
+    max-height: 64px;
+}
+
+/* Index */
+.index {
+    text-align: center;
+}
+
+.title {
+    font-size: calc(18px + 2vh);
+    text-align: center;
+    color: var(--text);
+    animation: fadeIn 0.5s ease-in-out;
+}
+
+.subtitle {
+    text-align: center;
+    color: var(--subtitle);
+}
+
+#index-subtitle {
+    color: var(--color-text);
+}
+
+/* Index - Links */
+
+.links {
+    background: var(--links);
+
+    display: flex;
+    justify-content: space-evenly;
+    justify-self: center;
+    align-items: center;
+    flex-wrap: wrap;
+
+    width: 90vw;
+    height: 8vw;
+    min-height: 32px;
+    max-height: 300px;
+
+    margin: auto auto 0;
+}
+
+.link {
+    width: 5vw;
+    height: 10vh;
+    min-height: 16px;
+    min-width: 16px;
+    border-radius: 5%;
+}
+
+.link-img {
+    width: 5vw;
+    height: auto;
+    min-height: 16px;
+    min-width: 16px;
+    max-height: 256px;
+    max-width: 256px;
+    transition: transform 1s ease-in-out;
+    border-radius: 5%;
+}
+
+.link-img:hover {
+    transform: scale(1.2);
+    transition: transform 1s ease-in-out;
+}
+
+/* Repositories */
+
+.repos {
+    display: flex;
+    margin: auto auto 2vh;
+
+    width: 95%;
+    height: 10%;
+    padding-top: 10%;
+    padding-bottom: 8%;
+    overflow-x: scroll;
+    overflow-y: hidden;
+}
+
+
+*::-webkit-scrollbar {
+    height: 2.5vh;
+}
+
+*::-webkit-scrollbar-track {
+    background: var(--bg);
+}
+
+*::-webkit-scrollbar-thumb {
+    background: var(--bg-2);
+}
+
+#pinned_repos {
+    margin-bottom: 5vh;
+}
+
+.repo {
+    transition: transform 1s ease-in-out;
+    padding: 0;
+    min-width: 256px;
+    margin-left: 1vw;
+    margin-right: 1vw;
+    vertical-align: middle;
+    height: 100%;
+}
+
+.repo-img {
+    width: 20vh;
+    min-width: 160px;
+    box-shadow: var(--shadow);
+    transition: transform 1s ease-in-out;
+    white-space: nowrap;
+    display: inline-block;
+}
+
+.repo:hover {
+    transform: scale(2.1);
+    transition: transform 1s ease-in-out;
+}
+
+.repo:hover:is(:last-child) {
+    transform: scale(2.1) translateX(-20%);
+}
+
+.repo:hover:is(:first-child) {
+    transform: scale(2.1) translateX(20%);
+}
+
+/* Other */
+.center {
+    vertical-align: middle;
+    display: inline-block;
+}
+
+.break {
+    height: 15vh;
+}
+
+.small {
+    font-weight: bold;
+    color: var(--text);
+    font-size: calc(11px + 2vh);
+}
+
+/* Footer */
+.footer {
+    background-color: var(--bg-2);
+    height: 5vh;
+    display: flex;
+    padding-bottom: 5vh;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    align-items: center;
+    font-family: monospace;
+}
+
+.footer-text {
+    color: var(--text);
+    font-size: calc(6px + 1vh);
+    padding-top: 3vh;
+}

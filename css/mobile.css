@@ -1,0 +1,18 @@
+@media (max-width: 800px) {
+
+    .repo:hover {
+        transform: scale(1.1);
+    }
+
+    .repo:hover:is(:last-child) {
+        transform: scale(1.1);
+    }
+
+    .repo:hover:is(:first-child) {
+        transform: scale(1.1);
+    }
+
+    .footer {
+        padding: 0 3vw 3vw;
+    }
+}
