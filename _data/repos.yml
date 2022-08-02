@@ -1,7 +1,7 @@
 - name: MobChip
   git: GamerCoder215/MobChip
-- name: DiamondPin
-  git: GamerCoder215/DiamondPin
+- name: InceptusInsights
+  git: Team-Inceptus/InceptusInsights
 - name: Novaconomy
   git: Team-Inceptus/Novaconomy
 - name: nodejs-notebook
