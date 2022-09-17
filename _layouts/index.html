@@ -4,7 +4,7 @@ layout: default
 
 <div class="index">
 
-    <img src="/assets/gamercoder215.png" class="logo" alt="GamerCoder215">
+    <img src="/assets/gamercoder215.png" class="logo" alt="GamerCoder215" title="{{ page.summary }}">
     <h1 class="title" id="index-title" onclick="resetTitle()">GamerCoder215</h1>
     <h2 class="subtitle">FullStack Developer · Owner of Team Inceptus</h2>
     <h3 class="subtitle" id="index-subtitle"></h3>
@@ -41,11 +41,33 @@ layout: default
 
     <h1 class="title">Statistics</h1>
 
-    <p class="small" id="stars"></p>
-    <p class="small" id="watchers"></p>
     <p class="small" id="repos"></p>
+    
+    <p class="break"></p>
+    <p class="break"></p>
+    <p class="break"></p>
+    <p class="break"></p>
+
+    <h2 class="title">Top Languages</h2>
+
+    <div class="languages-chart">
+        <canvas aria-label="Top Language Chart" role="img" id="languages-chart"></canvas>
+    </div>
 
     <p class="break"></p>
+    <p class="break"></p>
+
+    <h1 class="title">Donate</h1>
+
+
+    <div class="donations">
+        {% for donate in site.data.donate %}
+        <a href="{{ donate.url }}" target="_blank" title="{{ donate.name }}">
+            <img src="{{ donate.img }}" class="donate-img" alt="{{ donate.name }}">
+        </a>
+        {% endfor %}
+    </div>
+
     <p class="break"></p>
     <p class="break"></p>
 
