@@ -1,7 +1,11 @@
 - name: MobChip
   git: GamerCoder215/MobChip
-- name: InceptusInsights
-  git: Team-Inceptus/InceptusInsights
+- name: Runcaria
+  git: Team-Inceptus/Runcaria
+- name: StarCosmetics
+  git: GamerCoder215/StarCosmetics
+- name: Divisions
+  git: GamerCoder215/Divisions
 - name: Novaconomy
   git: Team-Inceptus/Novaconomy
 - name: nodejs-notebook
