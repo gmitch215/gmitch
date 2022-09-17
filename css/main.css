@@ -260,3 +260,30 @@ a:hover {
     font-size: calc(6px + 1vh);
     padding-top: 3vh;
 }
+
+.languages-chart {
+    display: inline-flex;
+    position: relative;
+    width: 50%;
+    height: 50vh;
+}
+
+.donations {
+    display: flex;
+    justify-content: space-evenly;
+    width: 100%;
+    position: relative;
+}
+
+.donate-img {
+    border: solid 0.25em var(--text);
+    border-radius: 50%;
+    height: 20vh;
+    width: auto;
+    transition: transform 0.5s ease-in-out;
+}
+
+.donate-img:hover {
+    transition: transform 0.5s ease-in-out;
+    transform: scale(1.1);
+}
