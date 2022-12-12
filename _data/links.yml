@@ -9,7 +9,7 @@
 - name: Discord
   img: /assets/links/discord.png
   url: https://discord.gg/WVFNWEvuqX
-  item-name: GamerCoder215#4916
+  item-name: GamerCoder#4916
   color: \#5865F2
 - name: Gitlab
   img: /assets/links/gitlab.png
@@ -27,6 +27,6 @@
   color: \#d30000
 - name: StackOverflow
   img: /assets/links/stackoverflow.png
-  url: https://stackoverflow.com/users/15419509/gamercoder215
-  item-name: gamercoder215
+  url: https://stackoverflow.com/users/15419509/gamercoder
+  item-name: gamercoder
   color: \#d69028

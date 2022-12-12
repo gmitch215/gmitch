@@ -261,13 +261,6 @@ a:hover {
     padding-top: 3vh;
 }
 
-.languages-chart {
-    display: inline-flex;
-    position: relative;
-    width: 50%;
-    height: 50vh;
-}
-
 .donations {
     display: flex;
     justify-content: space-evenly;

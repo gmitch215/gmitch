@@ -2,10 +2,14 @@
   git: GamerCoder215/MobChip
 - name: Runcaria
   git: Team-Inceptus/Runcaria
+- name: BattleCards
+  git: GamerCoder215/BattleCards
 - name: StarCosmetics
   git: GamerCoder215/StarCosmetics
 - name: Divisions
   git: GamerCoder215/Divisions
+- name: GoldenExplosions
+  git: GamerCoder215/GoldenExplosions
 - name: Novaconomy
   git: Team-Inceptus/Novaconomy
 - name: nodejs-notebook
@@ -18,3 +22,4 @@
   git: GamerCoder215/super-dictionary
 - name: NoobySMP
   git: Team-Inceptus/NoobySMP
+
