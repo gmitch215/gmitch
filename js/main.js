@@ -7,6 +7,9 @@ let index_strs = [
     "Hates Boilerplate",
     "Is irritated with NMS",
     "Enjoyer of Java",
+    "Wants to Learn",
+    "JoJo's Bizarre Adventure: Stardust Crusaders",
+    "Creator of MobChip"
 ]
 
 function getTheme() {
@@ -47,20 +50,6 @@ document.onreadystatechange = function() {
     loadTheme(getTheme());
 }
 
-function updateTitle(element) {
-    let color = $(element).attr("data-color").replace('\\', "");
-    let title = $(element).attr("data-item-name") ? $(element).attr("data-item-name").replace('\\', "") : "GamerCoder215";
-
-    document.getElementById("index-title").innerHTML = title;
-    document.getElementById("index-title").style.color = color;
-
-}
-
-function resetTitle() {
-    document.getElementById("index-title").innerHTML = "GamerCoder215";
-    document.getElementById("index-title").style.color = "var(--text)";
-}
-
 window.onload = async function() {
     $("#index-subtitle").text(index_strs[Math.floor(Math.random() * index_strs.length)]);
     setInterval(function () {
@@ -68,6 +57,7 @@ window.onload = async function() {
     }, 5000);
 
     $("#repos").text("📦 " + await getRepos() + " Repositories");
+    $("#downloads").text("📥 " + (await getDownloads()).toLocaleString("en-US") + " Downloads");
 }
 
 async function getRepos() {
@@ -80,9 +70,20 @@ async function getRepos() {
     return repos;
 }
 
+async function getDownloads() {
+    let downloads = 0
+    let url = "https://api.spiget.org/v2/authors/1229877/resources"
+    let data = JSON.parse(await makeRequest(url))
+
+    for (let i = 0; i < data.length; i++)downloads += data[i].downloads;
+
+    return downloads;
+}
+
 function makeRequest(url) {
     return new Promise(function (resolve, reject) {
         let xhr = new XMLHttpRequest();
+
         xhr.open("GET", url);
         xhr.onload = function () {
             if (this.status >= 200 && this.status < 300) {
