@@ -1,4 +1,4 @@
-/* Copyright (c) 2022-Present GamerCoder215. All Rights Reserved. */
+/* Copyright (c) 2022-Present GamerCoder. All Rights Reserved. */
 
 /* Light & Dark Vars */
 
@@ -7,10 +7,14 @@
 
     --bg: #fff;
     --bg-2: #f1f1f1;
+    --bg-gradient: linear-gradient(to bottom, #d1d1d1 0%, #fff 100%);
+
     --logo-border: 2px black solid;
     --text: black;
     --subtitle: gray;
     --color-text: darkgreen;
+    --color-text-2: #004500;
+
     --link-color: lightgray;
     --shadow: 0 10px 20px -5px rgb(169, 169, 169);
 
@@ -23,10 +27,13 @@
 
     --bg: #2a2a2a;
     --bg-2: #1a1a1a;
+    --bg-gradient: linear-gradient(to bottom, #1a1a1a 0%, #2a2a2a 100%);
+
     --logo-border: 2px white solid;
     --text: #fff;
     --subtitle: #f8f8f8;
     --color-text: greenyellow;
+    --color-text-2: #80bf22;
     --link-color: darkgray;
     --shadow: 0 10px 20px -5px rgb(0, 0, 0);
 
@@ -59,9 +66,8 @@ html, body {
     height: 100%;
     width: 100%;
     background: var(--bg);
-    margin-bottom: 0;
-    margin-left: 0;
-    margin-right: 0;
+    margin: 0;
+    padding: 0;
 }
 
 a {
@@ -89,13 +95,60 @@ a:hover {
     transform: scale(1.1);
 }
 
-#theme-icon {
+.logo-small {
+    width: 6%;
     height: auto;
-    width: 5%;
     min-width: 32px;
     min-height: 32px;
-    max-width: 64px;
-    max-height: 64px;
+    border-radius: 50%;
+    margin: 1.5vh auto 0;
+    display: block;
+    border: var(--logo-border);
+    transition: transform 0.5s ease-in-out;
+}
+
+.logo-small:hover {
+    transition: transform 0.5s ease-in-out;
+    transform: scale(1.2);
+}
+
+#theme-icon {
+    height: auto;
+    width: 4%;
+    min-width: 32px;
+    min-height: 32px;
+    max-width: 48px;
+    max-height: 48px;
+}
+
+.page {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    background: var(--bg);
+    color: var(--text);
+    font-size: calc(10px + 1vh);
+}
+
+.page a, p {
+    font-weight: 500;
+}
+
+.page a {
+    color: var(--color-text);
+}
+
+.page a:hover {
+    color: var(--color-text-2);
+}
+
+.page h1 {
+    text-align: center;
+}
+
+.page-content {
+    margin: 0 23em 0
 }
 
 /* Index */
@@ -119,48 +172,6 @@ a:hover {
     color: var(--color-text);
 }
 
-/* Index - Links */
-
-.links {
-    background: var(--links);
-
-    display: flex;
-    justify-content: space-evenly;
-    justify-self: center;
-    align-items: center;
-    flex-wrap: wrap;
-
-    width: 90vw;
-    height: 8vw;
-    min-height: 32px;
-    max-height: 300px;
-
-    margin: auto auto 0;
-}
-
-.link {
-    width: 5vw;
-    height: 10vh;
-    min-height: 16px;
-    min-width: 16px;
-    border-radius: 5%;
-}
-
-.link-img {
-    width: 5vw;
-    height: auto;
-    min-height: 16px;
-    min-width: 16px;
-    max-height: 256px;
-    max-width: 256px;
-    transition: transform 1s ease-in-out;
-    border-radius: 5%;
-}
-
-.link-img:hover {
-    transform: scale(1.2);
-    transition: transform 1s ease-in-out;
-}
 
 /* Repositories */
 
@@ -239,6 +250,69 @@ a:hover {
     font-weight: bold;
     color: var(--text);
     font-size: calc(11px + 2vh);
+}
+
+.large {
+    font-weight: bold;
+    color: var(--text);
+    font-size: calc(18px + 4vh);
+    margin-bottom: 2vh;
+}
+
+/* Header */
+.header {
+    height: 7vh;
+    background: var(--bg-gradient);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.header-links {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    position: relative;
+    padding-left: 3vw;
+}
+
+.header-links-inner {
+    display: flex;
+    column-gap: 3vw;
+    align-items: center;
+}
+
+.header-links-inner:not(:last-child) {
+    margin-left: 3vw;
+}
+
+.header-links-inner:not(:first-child) {
+    margin-right: 3vw;
+}
+
+.header-link {
+    color: var(--text);
+    font-weight: bold;
+    font-size: 1.25em
+}
+
+.header-link-img {
+    height: 3.5vh;
+    width: auto;
+    
+    min-height: 16px;
+    min-width: 16px;
+    max-height: 64px;
+    max-width: 64px;
+
+    margin-right: 0.25vw;
+    border-radius: 5%;
+    transition: transform 0.5s ease-in-out;
+}
+
+.header-link-img:hover {
+    transform: scale(1.2);
+    transition: transform 0.25s ease-in-out;
 }
 
 /* Footer */
