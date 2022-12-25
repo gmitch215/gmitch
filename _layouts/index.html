@@ -5,20 +5,10 @@ layout: default
 <div class="index">
 
     <img src="/assets/gamercoder.png" class="logo" alt="GamerCoder" title="{{ page.summary }}">
-    <h1 class="title" id="index-title" onclick="resetTitle()">GamerCoder215</h1>
+    <h1 class="title" id="index-title">GamerCoder</h1>
     <h2 class="subtitle">FullStack Developer · Owner of Team Inceptus</h2>
     <h3 class="subtitle" id="index-subtitle"></h3>
 
-    <div class="links">
-        {% for link in site.data.links %}
-        <div class="link">
-            <a title="{{ link.name }}" href="{{ link.url }}"><img onmouseover="updateTitle(this)" data-color="{{ link.color }}" {% if link.item-name %} data-item-name="{{ link.item-name }}" {% endif %} src="{{ link.img }}" class="link-img"></a>
-        </div>
-        {% endfor %}
-    </div>
-
-    <p class="break"></p>
-    <p class="break"></p>
     <p class="break"></p>
     <p class="break"></p>
 
@@ -41,7 +31,8 @@ layout: default
 
     <h1 class="title">Statistics</h1>
 
-    <p class="small" id="repos"></p>
+    <p class="large" id="repos"></p>
+    <p class="large" id="downloads"></p>
     
     <p class="break"></p>
     <p class="break"></p>
@@ -49,7 +40,6 @@ layout: default
     <p class="break"></p>
 
     <h1 class="title">Donate</h1>
-
 
     <div class="donations">
         {% for donate in site.data.donate %}

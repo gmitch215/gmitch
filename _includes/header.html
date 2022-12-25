@@ -1,0 +1,29 @@
+<header class="header">
+
+    <img id="theme-icon" onclick="switchTheme()">
+
+    <div class="header-links">
+
+        <div class="header-links-inner">
+            {% assign links = site.data.header.links %}
+            {% for link in links %}
+
+            <a href="{{ link.url }}" title="{{ link.name }}"class="header-link">{{ link.name }}</a>
+
+            {% endfor %}
+        </div>
+
+        <div class="header-links-inner">
+            {% assign images = site.data.header.images %}
+            {% for link in images %}
+
+            <a href="{{ link.url }}" title="{{ link.name }}" class="header-link">
+                <img src="{{ link.img }}" class="header-link-img" alt="{{ link.name }}">
+            </a>
+
+            {% endfor %}
+        </div>
+
+    </div>
+
+</header>
