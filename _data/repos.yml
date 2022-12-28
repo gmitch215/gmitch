@@ -1,13 +1,11 @@
 - name: MobChip
   git: GamerCoder215/MobChip
-- name: Runcaria
-  git: Team-Inceptus/Runcaria
 - name: BattleCards
   git: GamerCoder215/BattleCards
 - name: StarCosmetics
   git: GamerCoder215/StarCosmetics
 - name: Divisions
-  git: GamerCoder215/Divisions
+  git: Team-Inceptus/Divisions
 - name: GoldenExplosions
   git: GamerCoder215/GoldenExplosions
 - name: Novaconomy
