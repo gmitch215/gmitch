@@ -16,4 +16,4 @@ GamerCoder is also known for the founding of [Team Inceptus](https://teaminceptu
 
 ---
 
-Copyright © 2022 GamerCoder. All rights reserved.
+Copyright © 2023 GamerCoder. All rights reserved.
