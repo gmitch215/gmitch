@@ -12,12 +12,5 @@
   git: Team-Inceptus/Novaconomy
 - name: nodejs-notebook
   git: brightplum/nodejs-notebook
-- name: Lightning
-  git: GamerCoder215/Lightning
-- name: PlutoChat
-  git: GamerCoder215/PlutoChat
-- name: super-dictionary
-  git: GamerCoder215/super-dictionary
-- name: NoobySMP
-  git: Team-Inceptus/NoobySMP
-
+- name: PlasmaEnchants
+  git: Team-Inceptus/PlasmaEnchants
