@@ -6,8 +6,10 @@
   git: GamerCoder215/StarCosmetics
 - name: Divisions
   git: Team-Inceptus/Divisions
-- name: GoldenExplosions
-  git: GamerCoder215/GoldenExplosions
+- name: Arsenal
+  git: GamerCoder215/Arsenal
+- name: ServerManager
+  git: GamerCoder215/ServerManager
 - name: Novaconomy
   git: Team-Inceptus/Novaconomy
 - name: nodejs-notebook
