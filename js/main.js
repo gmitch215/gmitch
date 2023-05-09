@@ -9,7 +9,10 @@ let index_strs = [
     "Enjoyer of Java",
     "Wants to Learn",
     "JoJo's Bizarre Adventure: Stardust Crusaders",
-    "Creator of MobChip"
+    "Creator of MobChip",
+    "Enjoyer of Kotlin",
+    "Java Edition > Bedrock Edition",
+    "Super Mario Galaxy",
 ]
 
 function getTheme() {
@@ -72,10 +75,14 @@ async function getRepos() {
 
 async function getDownloads() {
     let downloads = 0
-    let url = "https://api.spiget.org/v2/authors/1229877/resources"
-    let data = JSON.parse(await makeRequest(url))
 
-    for (let i = 0; i < data.length; i++)downloads += data[i].downloads;
+    let url1 = "https://api.spiget.org/v2/authors/1229877/resources"
+    let data1 = JSON.parse(await makeRequest(url1))
+    for (let i = 0; i < data1.length; i++) downloads += data1[i].downloads;
+
+    let url2 = "https://api.modrinth.com/v2/user/GamerCoder/projects"
+    let data2 = JSON.parse(await makeRequest(url2))
+    for (let i = 0; i < data2.length; i++) downloads += data2[i].downloads;
 
     return downloads;
 }
