@@ -53,18 +53,18 @@
 }
 
 html {
-    overflow-y: hidden;
+    overflow-y: scroll;
 }
 
 body {
-    overflow-y: scroll;
+    overflow-y: hidden;
+    height: 100%;
+    width: 100%;
 }
 
 html, body {
     overflow-x: hidden;
     font-family: "Segoe UI", Helvetica, Arial, sans-serif;
-    height: 100%;
-    width: 100%;
     background: var(--bg);
     margin: 0;
     padding: 0;
@@ -315,26 +315,6 @@ a:hover {
     transition: transform 0.25s ease-in-out;
 }
 
-/* Footer */
-.footer {
-    background-color: var(--bg-2);
-    height: 5vh;
-    display: flex;
-    padding-bottom: 5vh;
-    justify-content: center;
-    flex-direction: column;
-    align-items: center;
-    text-align: center;
-    align-items: center;
-    font-family: monospace;
-}
-
-.footer-text {
-    color: var(--text);
-    font-size: calc(6px + 1vh);
-    padding-top: 3vh;
-}
-
 .donations {
     display: flex;
     justify-content: space-evenly;
@@ -353,4 +333,24 @@ a:hover {
 .donate-img:hover {
     transition: transform 0.5s ease-in-out;
     transform: scale(1.1);
+}
+
+/* Footer */
+.footer {
+    background-color: var(--bg-2);
+    height: 5vh;
+    display: flex;
+    padding-bottom: 5vh;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    align-items: center;
+    font-family: monospace;
+}
+
+.footer-text {
+    color: var(--text);
+    font-size: calc(6px + 1vh);
+    padding-top: 3vh;
 }
