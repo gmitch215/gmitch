@@ -3,11 +3,19 @@ links:
   url: /
 - name: About
   url: /about
+- name: CV
+  url: /cv
 
 images:
-- name: Instagram
-  img: /assets/links/instagram.png
-  url: https://www.instagram.com/teaminceptus/
+- name: SpigotMC
+  img: /assets/links/spigot_modern.png
+  url: https://www.spigotmc.org/members/gamercoder215.1229877/
+- name: Modrinth
+  img: /assets/links/modrinth.svg
+  url: https://modrinth.com/user/GamerCoder
+- name: HangarMC
+  img: /assets/links/hangar.svg
+  url: https://hangar.papermc.io/GamerCoder
 - name: Discord
   img: /assets/links/discord.png
   url: https://discord.com/users/572173428086538270
@@ -17,9 +25,9 @@ images:
 - name: GitHub
   img: /assets/links/github.png
   url: https://github.com/GamerCoder215
-- name: SpigotMC
-  img: /assets/links/spigot_modern.png
-  url: https://www.spigotmc.org/members/gamercoder215.1229877/
 - name: NPM
   img: /assets/links/npm.png
   url: https://www.npmjs.com/~gamercoder215
+- name: Instagram
+  img: /assets/links/instagram.png
+  url: https://www.instagram.com/teaminceptus/
