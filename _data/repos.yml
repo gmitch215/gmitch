@@ -1,5 +1,7 @@
 - name: MobChip
   git: GamerCoder215/MobChip
+- name: Novaconomy
+  git: Team-Inceptus/Novaconomy
 - name: BattleCards
   git: GamerCoder215/BattleCards
 - name: StarCosmetics
@@ -10,8 +12,8 @@
   git: GamerCoder215/Arsenal
 - name: ServerManager
   git: GamerCoder215/ServerManager
-- name: Novaconomy
-  git: Team-Inceptus/Novaconomy
+- name: MCPublisher
+  git: GamerCoder215/MCPublisher
 - name: nodejs-notebook
   git: brightplum/nodejs-notebook
 - name: PlasmaEnchants
