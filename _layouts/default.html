@@ -5,16 +5,18 @@
     {% include head.html %}
 
     <body>
-        {% include header.html %}
+        <div>
+            {% include header.html %}
 
-        {{ content }}
+            {{ content }}
+        </div>
 
         <noscript>Please enable JavaScript for this site.</noscript>
         <script src="/js/jquery.min.js"></script>
         <script src="/js/main.js"></script>
         <script src="/js/js-yaml.min.js"></script>
-        <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+        {% include footer.html %}
     </body>
-    {% include footer.html %}
 
 </html>
