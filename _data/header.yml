@@ -1,10 +1,12 @@
 links:
 - name: Home
   url: /
-- name: About
-  url: /about
+- name: Demos
+  url: /demos
 - name: CV
   url: /cv
+- name: About
+  url: /about
 
 images:
 - name: SpigotMC
@@ -28,6 +30,3 @@ images:
 - name: NPM
   img: /assets/links/npm.png
   url: https://www.npmjs.com/~gamercoder215
-- name: Instagram
-  img: /assets/links/instagram.png
-  url: https://www.instagram.com/teaminceptus/
