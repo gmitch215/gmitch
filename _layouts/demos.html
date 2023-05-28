@@ -1,0 +1,26 @@
+---
+layout: default
+---
+
+<div class="demos">
+
+    <h1 class="title">Project Demos</h1>
+    <p class="subtitle" style="margin-bottom: 2vh;">Videos and Pictures featuring and demonstrating how my projects work and what they acutally do</p>
+
+    {% for demo in site.data.demos %}
+    <div class="demo">
+        <a class="demo-title" href="https://github.com/{{ demo.git }}">{{ demo.title }}</a>
+        <div class="demo-videos">
+            {% for video in demo.videos %}
+            <iframe class="demo-video" src="{{ video }}" title="{{ demo.title }}" controls></iframe>
+            {% endfor %}
+        </div>
+        <div class="demo-pictures">
+            {% for picture in demo.pictures %}
+            <img src="{{ picture }}" alt="{{ demo.title }} Picture" class="demo-picture">
+            {% endfor %}
+        </div>
+    </div>
+    {% endfor %}
+
+</div>

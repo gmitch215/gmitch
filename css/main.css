@@ -54,12 +54,16 @@
 
 html {
     overflow-y: scroll;
+    height: 100%;
+    width: 100%;
 }
 
 body {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
     overflow-y: hidden;
-    height: 100%;
-    width: 100%;
+    min-height: 100%;
 }
 
 html, body {
@@ -305,7 +309,7 @@ a:hover {
     max-height: 64px;
     max-width: 64px;
 
-    margin-right: 0.25vw;
+    margin-right: 0.2vw;
     border-radius: 5%;
     transition: transform 0.5s ease-in-out;
 }
@@ -335,17 +339,80 @@ a:hover {
     transform: scale(1.1);
 }
 
+/* Demos */
+.demos {
+    display: flex;
+    flex-direction: column;
+}
+
+.demo {
+    margin-top: 2vh;
+    margin-bottom: 11vh;
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+}
+
+.demo-title {
+    font-size: calc(20px + 2vh);
+    color: var(--text);
+    font-weight: bold;
+    animation: fadeIn 0.5s ease-in-out;
+    padding-bottom: 1vh;
+    text-align: center;
+    transition: transform 0.5s ease-in-out;
+}
+
+.demo-title:hover {
+    transform: scale(1.2);
+    transition: transform 0.5s ease-in-out;
+}
+
+.demo-videos, .demo-pictures {
+    display: flex;
+    margin-top: 2vh;
+    overflow-x: auto;
+    min-width: 100%;
+    min-height: 30vh;
+    align-items: baseline;
+}
+
+.demo-video, .demo-picture {
+    height: 33vh;
+    width: auto;
+    margin-left: 2vw;
+    box-shadow: var(--shadow);
+    border: var(--color-text-2) inset 0.2em;
+    margin-bottom: 2vh;
+}
+
+.demo-video {
+    width: 30vw;
+}
+
+.demo-picture {
+    transition: transform 0.5s ease-in-out;
+    margin-top: 4vh;
+    margin-bottom: 4vh;
+}
+
+.demo-picture:hover {
+    transform: scale(1.05);
+    transition: transform 0.5s ease-in-out;
+}
+
 /* Footer */
-.footer {
+footer {
     background-color: var(--bg-2);
     height: 5vh;
+    width: 100%;
     display: flex;
-    padding-bottom: 5vh;
+    margin-top: 2vh;
+    padding-bottom: 3vh;
     justify-content: center;
     flex-direction: column;
     align-items: center;
     text-align: center;
-    align-items: center;
     font-family: monospace;
 }
 
