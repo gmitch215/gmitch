@@ -11,34 +11,48 @@ summary: Commission Information
 <details>
     <summary>Click to Read More</summary>
 
-As a current student, I do not have the legal capabilities of signing for any contract or contract-related work. Please commission me at your own risk.
+As a current student, I do not have the legal capabilities of creating or signing for any contract or contract-related work. Please commission me at your own risk.
+
+The following policies written on this page are ones I have written myself and will oblige by through the commissioning process. Please read them throroughly and communicate your compliance as soon as possible.
 </details>
 
-## Before you Commission Me
+## Prerequisites
 
 Firstly, please check the above status symbol to see if I am currently open to commissions. If I am unavailable, it is usually because I have too many commissions going on currently or am busy with other things. If you contact me while I am unavailable, I can put you on a waitlist for commissions, but do not expect major progress anytime soon.
 
-I highly recommend you view my [cv](/cv) and [demos](/demos) before contacting me for a commission to ensure I am qualified and capable of doing what you ask. This is to ensure that I have the knowledge and capabilities of completing your task at a specific 
-
-## Commision Prerequisites
+I highly recommend you view my [cv](/cv) and [demos](/demos) before contacting me for a commission to ensure I am qualified and capable of doing what you ask. This is to ensure that I have the knowledge and capabilities of completing your task at a specific level. Please also communicate your priorities as clearly as possible for an accurate quote.
 
 I will **automatically deny** commissions with the following themes:
 
 - Pornographic or NSFW Content
 - Racist, Homophobic, Sexist, Bigoted or anti-LGBTQ+ content
   - Includes other discriminatory themes and content
+- Personal Attacks, Harms or Slander
+- Malware, Spyware, Phishing or Virus-related code
+- Illegal or Unlawful themes that violate US Federal Law or UN International Law
 
-I typically charge a **20% upfront** charge on all commissions. I do this because I am unable to sign a contract (see *important notice*) and would like to confirm that there is a commitment present between both of us. Basically, it's big enough so I don't get scammed and small enough so you don't get scammed.
+## Pricing
 
-If you are unhappy with my work and request a refund, <u>I will only offer <strong>full</strong> or <strong>close to full</strong> refunds before a project is classified as 50% done.</u> What is "50% done" or "half done" depends on the complexity, effort, and time put into a project, which is very subjective and can be discussed. After that period, a refund policy will be negotated revolving around how much has been completed.
+Developers are notorious for severely overcharging or undercharging their clients, so all flat prices will be open for negotation.
 
-## Price Negotations
+I offer a free 30-day period after the planned deadline for **only** bug fixes discovered later. If you need extended support, please view the prices below:
 
-I am willing to negotiate prices to a (reasonable) amount. Developers are notorious for undercharging or overcharging clients, so it is important to me for your well-being and satisfaction.
+- (Optional) $15 / Year for Extra Bug Support (Capped at 4 Years)
+- (Optional) $20 / Year for Minor Features Added (Capped at 4 Years)
 
-It is also important that you communicate <u>priorities</u> and <u>budget</u> as much as possible **BEFORE** I quote you to ensure that a fair price    is set. By "priorities," I am referring to what I should be looking for over one another (i.e. performance, efficiency, maintainability, quality, etc). The more effort, quality, efficiency, and/or performance requested, the more likely I am to have a more expensive quote.
+These are **not** able to be refunded and are **not** open for negotation and will not change.
 
-Unless your project or plugin integrates with a system like Tebex to sell a product for real money, the quote will not include a commission rate. My minimum commission rate percentage is **4%**, and this will increase depending on the complexity of the products I am commissioned to sell.
+If your plugin plans to integrate with a system like Tebex, I will offer an optional commisssion percentage based on the quote (minimum is **4%**) for lifetime bug support and minor feature additions. For major feature additions, I will quote you based on your necessities.
+
+## Refund Policy
+
+The following will apply upon a refund request:
+
+- I will **only** offer **full** or **close to full** refunds if the plugin is not classified as "half done" or "50% done." What is "half done" means that the current request refund date is past the halfway mark between the **discussed deadline** and **the day you have paid the upfront cost**.
+  - If you have paid the $15/Y additional bug support and/or the $20/Y, I will offer these until the deadline has passed.
+- After a project is "50% done," a refund policy will be negotated upon request. The maximum refund amount I will grant is **75%**, however this heavily depends on the refund request date.
+- Please keep in mind that I make an effort to communicate progress and test with the client as much as possible to ensure features are made to your satisfaction. There should not be any major surprises upon release.
+- After the deadline has passed, **I will not offer any refunds.** If you need bugs fixed or minor features added, please pay the fees shown above.
 
 ## Contact
 
