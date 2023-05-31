@@ -37,8 +37,7 @@ Developers are notorious for severely overcharging or undercharging their client
 
 I offer a free 30-day period after the planned deadline for **only** bug fixes discovered later. If you need extended support, please view the prices below:
 
-- (Optional) $15 / Year for Extra Bug Support (Capped at 4 Years)
-- (Optional) $20 / Year for Minor Features Added (Capped at 4 Years)
+- (Optional) $15 / Year for Extra Bug Support AND Minor Features (Capped at 4 Years)
 
 These are **not** able to be refunded and are **not** open for negotation and will not change.
 
@@ -49,7 +48,7 @@ If your plugin plans to integrate with a system like Tebex, I will offer an opti
 The following will apply upon a refund request:
 
 - I will **only** offer **full** or **close to full** refunds if the plugin is not classified as "half done" or "50% done." What is "half done" means that the current request refund date is past the halfway mark between the **discussed deadline** and **the day you have paid the upfront cost**.
-  - If you have paid the $15/Y additional bug support and/or the $20/Y, I will offer these until the deadline has passed.
+  - If you have paid the $15/Y extended period, I will offer these until the deadline has passed.
 - After a project is "50% done," a refund policy will be negotated upon request. The maximum refund amount I will grant is **75%**, however this heavily depends on the refund request date.
 - Please keep in mind that I make an effort to communicate progress and test with the client as much as possible to ensure features are made to your satisfaction. There should not be any major surprises upon release.
 - After the deadline has passed, **I will not offer any refunds.** If you need bugs fixed or minor features added, please pay the fees shown above.
