@@ -5,6 +5,25 @@
 :root {
     --scroll-amount: 0;
 
+    --bg: #2a2a2a;
+    --bg-2: #1a1a1a;
+    --bg-gradient: linear-gradient(to bottom, #1a1a1a 0%, #2a2a2a 100%);
+
+    --logo-border: 2px white solid;
+    --text: #fff;
+    --subtitle: #f8f8f8;
+    --color-text: greenyellow;
+    --color-text-2: #80bf22;
+    --link-color: darkgray;
+    --shadow: 0 10px 20px -5px rgb(0, 0, 0);
+
+    --links: linear-gradient(to top, #3f3e3e 0%, #2a2a2a 100%);
+    --links-gradient: linear-gradient(to right, #2a2a2a 0%, rgba(0, 0, 0, 0) 100%);
+}
+
+[data-theme="light"] {
+    --scroll-amount: 0;
+
     --bg: #fff;
     --bg-2: #f1f1f1;
     --bg-gradient: linear-gradient(to bottom, #d1d1d1 0%, #fff 100%);
@@ -20,25 +39,6 @@
 
     --links: linear-gradient(to top, #eaeaea 0%, white 100%);
     --links-gradient: linear-gradient(to right, white 0%, rgba(255, 255, 255, 0) 100%);
-}
-
-[data-theme="dark"] {
-    --scroll-amount: 0;
-
-    --bg: #2a2a2a;
-    --bg-2: #1a1a1a;
-    --bg-gradient: linear-gradient(to bottom, #1a1a1a 0%, #2a2a2a 100%);
-
-    --logo-border: 2px white solid;
-    --text: #fff;
-    --subtitle: #f8f8f8;
-    --color-text: greenyellow;
-    --color-text-2: #80bf22;
-    --link-color: darkgray;
-    --shadow: 0 10px 20px -5px rgb(0, 0, 0);
-
-    --links: linear-gradient(to top, #3f3e3e 0%, #2a2a2a 100%);
-    --links-gradient: linear-gradient(to right, #2a2a2a 0%, rgba(0, 0, 0, 0) 100%);
 }
 
 /* CSS */
