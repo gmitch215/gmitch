@@ -38,8 +38,8 @@ Developers are notorious for severely overcharging or undercharging their client
 I offer a free 30-day period after the planned deadline for **only** bug fixes discovered later. If you need extended support, please view the prices below:
 
 - (Optional) $20 / Year for Extra Bug Support
-- (Optional) $35 / Year for Minor Feature Additions
-  - Extra Bug Support AND Minor Feature Additions Combined Price: $50 / Year 
+- (Optional) $25 / Year for Minor Feature Additions
+  - Extra Bug Support AND Minor Feature Additions Combined Price: $40 / Year
   - Both are Capped at 2 Years
 
 These are **not** able to be refunded and are **not** open for negotation and will not change.
