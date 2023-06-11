@@ -16,7 +16,7 @@ let index_strs = [
 ]
 
 function getTheme() {
-    let theme = "light";
+    let theme = "dark";
 
     if (localStorage.getItem("theme") && localStorage.getItem("theme") === "dark") theme = "dark";
     if (window.matchMedia && window.matchMedia("(prefers-color-scheme: dark)").matches) theme = "dark";
