@@ -1,0 +1,41 @@
+@page {
+    size: auto;
+    margin: 0;
+}
+
+@media print {
+    .noPrint { display: none !important; }
+
+    :root {
+        --scroll-amount: 0;
+
+        --bg: #fff;
+        --bg-2: #f1f1f1;
+        --bg-gradient: linear-gradient(to bottom, #d1d1d1 0%, #fff 100%);
+
+        --logo-border: 2px black solid;
+        --text: black;
+        --subtitle: gray;
+        --color-text: black;
+        --color-text-2: black;
+
+        --link-color: lightgray;
+        --shadow: 0 10px 20px -5px rgb(169, 169, 169);
+
+        --links: linear-gradient(to top, #eaeaea 0%, white 100%);
+        --links-gradient: linear-gradient(to right, white 0%, rgba(255, 255, 255, 0) 100%);
+    }
+
+    p, li {
+        font-size: 2.5vw !important;
+    }
+
+    h1 {
+        font-size: 7vw;
+        margin-bottom: 0;
+    }
+
+    h2 {
+        font-size: 3vw;
+    }
+}

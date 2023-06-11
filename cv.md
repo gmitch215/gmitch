@@ -8,10 +8,11 @@ summary: Official CV
 <p style="text-align: center; font-style: italic;">Professional FullStack Software Engineer</p>
 
 b. 2008 <br>
-📍 Chicago, IL <br> 
+📍 Chicago, IL <br>
 [✉️ gamer@gamercoder.me](mailto:gamer@gamercoder.me) <br>
 [🌐 gamercoder.me](https://gamercoder.me) <br>
-[🖥️ github.com/GamerCoder215](https://github.com/GamerCoder215)
+[🖥️ github.com/GamerCoder215](https://github.com/GamerCoder215) <br>
+<a id="export-cv" class="noPrint" onclick="javascript:window.print()">📤 Export CV</a>
 
 ------------
 
@@ -49,6 +50,7 @@ b. 2008 <br>
   - Kotlin
     - Extension Functions
     - Interoperability with Java
+    - Serialization & Deserialization
   - C++
     - Unreal Engine 4/5 (Ongoing)
   - Other (Minimal Knowledge)
@@ -78,6 +80,14 @@ This is one of my favorite minecraft projects, partly because it introduced me t
 This project was really fun and enjoyable to make because of how much I enjoy programming in the Kotlin language. Since Kotlin compiles to Java, it is nice to enjoy modern features of the programming language whilst still having support for older versions of Java and Minecraft. A big part in creating the "cards" was the use of JVM Annotations, reducing boilerplate and duplicated code, making it easy to make new ones as I maintain the project.
 
 This project was also one of the first projects I actually sold on the official Spigot site and other plugin marketplaces, helping develop business and marketing skills.
+
+### [PlasmaEnchants](https://github.com/Team-Inceptus/PlasmaEnchants)
+
+*2023 - Present*
+
+A very lightweight, simple, custom enchantments plugin for SpigotMC, and one of the first plugins I worked on to have [Kotlin Development](http://kotlinlang.org/). The plugin doesn't use any NMS at all, and uses modern spigot features from 1.14 and above. Designed in Kotlin with the [Spigot API](https://spigotmc.org).
+
+This project was developed along BattleCards and was really fun to experiment with, design, market, and improve over its lifetime period. It taught me a lot about Kotlin, including extension functions, interoperability with Java, and many more aspects about the programming language.
 
 ### [SuperAdvancements](https://github.com/GamerCoder215/SuperAdvancements)
 
