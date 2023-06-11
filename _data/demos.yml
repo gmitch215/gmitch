@@ -1,5 +1,8 @@
 - title: 🪙 SuperAdvancements
-  git: GamerCoder215/SuperAdvancements
+  attributes:
+    - name: GitHub
+      url: https://github.com/GamerCoder215/SuperAdvancements
+      img: assets/links/github.png
   videos:
     - https://www.youtube.com/embed/tM82KXf3Ed0
   pictures:
@@ -7,7 +10,19 @@
     - https://user-images.githubusercontent.com/54124162/239712605-4d3f387f-6c70-4c6b-94b7-5e2c7685f285.png
     - https://user-images.githubusercontent.com/54124162/239712606-53271d45-6a17-4159-aadc-f7a83fa611b2.png
 - title: ✨ StarCosmetics
-  git: GamerCoder215/StarCosmetics
+  attributes:
+    - name: GitHub
+      url: https://github.com/GamerCoder215/StarCosmetics
+      img: assets/links/github.png
+    - name: SpigotMC
+      url: https://www.spigotmc.org/resources/starcosmetics.106805/
+      img: assets/links/spigot_modern.png
+    - name: Modrinth
+      url: https://modrinth.com/plugin/starcosmetics
+      img: assets/links/modrinth.svg
+    - name: Hangar
+      url: https://hangar.papermc.io/GamerCoder/StarCosmetics
+      img: assets/links/hangar.svg
   videos:
     - https://www.youtube.com/embed/ZCcS0Qre2Cw
     - https://www.youtube.com/embed/TLCCKKi7KTQ
@@ -20,7 +35,19 @@
     - https://camo.githubusercontent.com/d9dbf17aa818e8bb570c6db6d41d81936ac905656afeff804759cb80a471d915/68747470733a2f2f6d656469612e646973636f72646170702e6e65742f6174746163686d656e74732f3839343235343736303037353630333938302f313035333931373639323237383631363037342f323032322d31322d31385f30302e31312e33332e706e67
     - https://camo.githubusercontent.com/93e7c109550338016167797c39a2f1661b04bab105316ddf72da4fddaca9685d/68747470733a2f2f6d656469612e646973636f72646170702e6e65742f6174746163686d656e74732f3839343235343736303037353630333938302f313035333931373639313931373931303130372f323032322d31322d31385f30302e31302e35352e706e67
 - title: 💰 Novaconomy
-  git: Team-Inceptus/Novaconomy
+  attributes:
+    - name: GitHub
+      url: https://github.com/Team-Inceptus/Novaconomy
+      img: assets/links/github.png
+    - name: SpigotMC
+      url: https://www.spigotmc.org/resources/novaconomy.100503/
+      img: assets/links/spigot_modern.png
+    - name: Modrinth
+      url: https://modrinth.com/plugin/novaconomy
+      img: assets/links/modrinth.svg
+    - name: Hangar
+      url: https://hangar.papermc.io/TeamInceptus/Novaconomy
+      img: assets/links/hangar.svg
   videos:
     - https://www.youtube.com/embed/_U06yymCt2w
   pictures:
@@ -32,8 +59,19 @@
     - https://camo.githubusercontent.com/cddd0a545caa4d47a8f7a378175fa3c982a3748e58fae7207bb1b1a5dc01b5ac/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3839343235343736303037353630333938302f3939383833363930373837363330323933382f323032322d30372d31395f30312e31392e31382e706e67
     - https://camo.githubusercontent.com/cde57f58840490410e227eef90f26f11c188df28e4cba0639da14c160581b24c/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3839343235343736303037353630333938302f3938373631373937323933373935373337362f323032322d30362d31385f30322e32302e30332e706e67
     - https://camo.githubusercontent.com/643b4645d7ca7897ee9d3110dcc977db7c5d42c31fae4b475033e4634355fcdd/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3836303733303639343535313836333332382f3934393830363737393737353230353339362f323032322d30332d30355f31372e30382e31382e706e67
+- title: 📖 PlasmaEnchants
+  attributes:
+    - name: GitHub
+      url: https://github.com/Team-Inceptus/PlasmaEnchants
+      img: assets/links/github.png
+  videos:
+    - https://www.youtube.com/embed/CA6yAS6keQI
+
 - title: ⚒️ NoobySMP
-  git: Team-Inceptus/SMPCore
+  attributes:
+    - name: GitHub
+      url: https://github.com/Team-Inceptus/SMPCore
+      img: assets/links/github.png
   pictures:
     - assets/demos/noobysmp/1.png
     - assets/demos/noobysmp/2.png
@@ -54,7 +92,13 @@
     - assets/demos/noobysmp/17.png
 
 - title: 🖊️ QuantumPen
-  git: GamerCoder215/QuantumPen
+  attributes:
+    - name: GitHub
+      url: https://github.com/GamerCoder215/QuantumPen
+      img: assets/links/github.png
+    - name: SpigotMC
+      url: https://www.spigotmc.org/resources/1-18-1-quantumpen-lite.97115/
+      img: assets/links/spigot_modern.png
   pictures:
     - assets/demos/quantumpen/1.png
     - assets/demos/quantumpen/2.png
