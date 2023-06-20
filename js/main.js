@@ -60,20 +60,37 @@ window.onload = async function() {
     }, 5000);
 
     $("#repos").text("📦 " + await getRepos() + " Repositories");
+    $("#stars").text("⭐ " + (await getStars()).toLocaleString("en-US") + " Stars");
+
     $("#downloads").text("📥 " + (await getDownloads()).toLocaleString("en-US") + " Downloads");
+
+    $("#active-users").text("👥 " + (await getActiveUsers()).toLocaleString("en-US") + " Active Users");
+    $("#active-servers").text("🖥️ " + (await getActiveServers()).toLocaleString("en-US") + " Active Servers");
+
+}
+
+const cache = {
+    repos: -1,
+    downloads: -1,
+    users: -1,
+    servers: -1,
+    stars: -1,
 }
 
 async function getRepos() {
+    if (cache.repos !== -1) return cache.repos;
     let repos = 0;
     let url = "https://api.github.com/users/GamerCoder215/repos";
     let data = JSON.parse(await makeRequest(url));
 
     for (let i = 0; i < data.length; i++) repos++;
 
-    return repos;
+    cache.repos = repos;
+    return cache.repos
 }
 
 async function getDownloads() {
+    if (cache.downloads !== -1) return cache.downloads;
     let downloads = 0
 
     let url1 = "https://api.spiget.org/v2/authors/1229877/resources"
@@ -84,7 +101,60 @@ async function getDownloads() {
     let data2 = JSON.parse(await makeRequest(url2))
     for (let i = 0; i < data2.length; i++) downloads += data2[i].downloads;
 
-    return downloads;
+    cache.downloads = downloads;
+    return cache.downloads;
+}
+
+// bStats
+const serverIDs = [
+    15322, // Novaconomy
+    15392, // PlutoChat
+    17108, // StarCosmetics
+    17230, // Divisions
+    18166, // BattleCards
+    18713, // PlasmaEnchants
+]
+
+async function getActiveUsers() {
+    if (cache.users !== -1) return cache.users;
+    let users = 0;
+
+    for (let server of serverIDs) {
+        let url = `https://bstats.org/api/v1/plugins/${server}/charts/players/data`
+        let data = JSON.parse(await makeRequest(url));
+
+        users += data[data.length - 1][1]
+    }
+
+    cache.users = users;
+    return cache.users;
+}
+
+async function getActiveServers() {
+    if (cache.servers !== -1) return cache.servers;
+    let servers = 0;
+
+    for (let server of serverIDs) {
+        let url = `https://bstats.org/api/v1/plugins/${server}/charts/servers/data`
+        let data = JSON.parse(await makeRequest(url));
+
+        servers += data[data.length - 1][1]
+    }
+
+    cache.servers = servers;
+    return cache.servers;
+}
+
+async function getStars() {
+    if (cache.stars !== -1) return cache.stars;
+    let stars = 0;
+
+    let url = "https://api.github.com/users/GamerCoder215/repos";
+    let data = JSON.parse(await makeRequest(url));
+    for (let i = 0; i < data.length; i++) stars += data[i].stargazers_count;
+
+    cache.stars = stars;
+    return cache.stars
 }
 
 function makeRequest(url) {

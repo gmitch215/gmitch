@@ -256,6 +256,13 @@ a:hover {
     font-size: calc(11px + 2vh);
 }
 
+.medium {
+    font-weight: bold;
+    color: var(--text);
+    font-size: calc(14px + 3vh);
+    margin-bottom: 0.5vh;
+}
+
 .large {
     font-weight: bold;
     color: var(--text);
