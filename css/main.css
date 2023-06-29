@@ -445,4 +445,9 @@ footer {
 #export-cv {
     width: 8vw;
     height: 3vh;
+    color: gold;
+}
+
+#export-cv:hover {
+    color: darkgoldenrod;
 }

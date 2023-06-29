@@ -12,7 +12,7 @@ b. 2008 <br>
 [✉️ gamer@gamercoder.me](mailto:gamer@gamercoder.me) <br>
 [🌐 gamercoder.me](https://gamercoder.me) <br>
 [🖥️ github.com/GamerCoder215](https://github.com/GamerCoder215) <br>
-<a id="export-cv" class="noPrint" onclick="javascript:window.print()">📤 Export CV</a>
+<a href="#" id="export-cv" class="noPrint" onclick="javascript:window.print()">📤 Export CV</a>
 
 ------------
 
