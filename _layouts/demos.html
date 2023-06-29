@@ -14,7 +14,7 @@ layout: default
         {% if demo.attributes %}
         <div class="demo-attributes">
             {% for attribute in demo.attributes %}
-            <a href="{{ attribute.url }}"><img src="{{ attribute.img }}" title="{{ attribute.name }}" alt="{{ attribute.name }}" class="demo-attribute-img"></a>
+            <a href="{{ attribute.url }}" target="_blank"><img src="{{ attribute.img }}" title="{{ attribute.name }}" alt="{{ attribute.name }}" class="demo-attribute-img"></a>
             {% endfor %}
         </div>
         {% endif %}

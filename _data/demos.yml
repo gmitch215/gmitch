@@ -23,6 +23,12 @@
     - name: Hangar
       url: https://hangar.papermc.io/GamerCoder/StarCosmetics
       img: assets/links/hangar.svg
+    - name: Polymart
+      url: https://polymart.org/resource/starcosmetics.3252
+      img: assets/links/polymart.png
+    - name: BuiltByBit
+      url: https://builtbybit.com/resources/starcosmetics.28060/
+      img: assets/links/mcmarket.png
   videos:
     - https://www.youtube.com/embed/ZCcS0Qre2Cw
     - https://www.youtube.com/embed/TLCCKKi7KTQ
@@ -48,6 +54,12 @@
     - name: Hangar
       url: https://hangar.papermc.io/TeamInceptus/Novaconomy
       img: assets/links/hangar.svg
+    - name: Polymart
+      url: https://polymart.org/resource/novaconomy.3253
+      img: assets/links/polymart.png
+    - name: BuiltByBit
+      url: https://builtbybit.com/resources/novaconomy.28059/
+      img: assets/links/mcmarket.png
   videos:
     - https://www.youtube.com/embed/_U06yymCt2w
   pictures:
@@ -64,9 +76,21 @@
     - name: GitHub
       url: https://github.com/Team-Inceptus/PlasmaEnchants
       img: assets/links/github.png
+    - name: SpigotMC
+      url: https://www.spigotmc.org/resources/plasmaenchants.110840/
+      img: assets/links/spigot_modern.png
+    - name: Polymart
+      url: https://polymart.org/resource/plasmaenchants.4355
+      img: assets/links/polymart.png
   videos:
     - https://www.youtube.com/embed/CA6yAS6keQI
-
+    - https://www.youtube.com/embed/YNbnKsgq6i8
+  pictures:
+    - https://camo.githubusercontent.com/cafcd55d710cb4283d465cb440bfd99839da1d65e5eeb672774a55fd3d97550c/68747470733a2f2f6d656469612e646973636f72646170702e6e65742f6174746163686d656e74732f3839343235343736303037353630333938302f313132333734383638333637393237373037362f323032332d30362d32385f31382e35332e31312e706e67
+    - https://camo.githubusercontent.com/7684af0b7c307f7a5ba14980cbe3671d7a28a4da79424a891f7bc984d7d0201d/68747470733a2f2f6d656469612e646973636f72646170702e6e65742f6174746163686d656e74732f3839343235343736303037353630333938302f313132333734383638333331303137343239392f323032332d30362d32385f31382e35322e31392e706e67
+    - https://camo.githubusercontent.com/57e0cceb5a45ca24220d9ae6857df8d7dbad5e90b7e0186b8a791ecd892b07e4/68747470733a2f2f6d656469612e646973636f72646170702e6e65742f6174746163686d656e74732f3839343235343736303037353630333938302f313132333734383638333031323337343636382f323032332d30362d32385f31332e33392e33372e706e67
+    - https://camo.githubusercontent.com/577a3de7be41329d758c2b0134c900e1e5733a9a100a4307c967273c9324ef3f/68747470733a2f2f6d656469612e646973636f72646170702e6e65742f6174746163686d656e74732f3839343235343736303037353630333938302f313132333734383638323731343538373133362f323032332d30362d32385f31332e33392e30332e706e67
+    - https://camo.githubusercontent.com/3775791525772b11dd9b4695884b77b27aac95710b5a9e06645f640295b7b71b/68747470733a2f2f6d656469612e646973636f72646170702e6e65742f6174746163686d656e74732f3839343235343736303037353630333938302f313132333734383638323339313632313736322f323032332d30362d32385f31332e33382e31352e706e67
 - title: ⚒️ NoobySMP
   attributes:
     - name: GitHub
