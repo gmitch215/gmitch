@@ -4,7 +4,7 @@ layout: page
 summary: Commission Information
 ---
 
-<span style="font-size: 1.375em; font-weight: bold;">Commission Status: <span style="color: green">Closed (Busy) 🟡</span></span>
+<span style="font-size: 1.375em; font-weight: bold;">Commission Status: <span style="color: yellow">Closed (Busy) 🟡</span></span>
 
 ## Important Notice
 
