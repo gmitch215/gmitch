@@ -8,7 +8,7 @@ layout: default
     <p class="subtitle" style="margin-bottom: 2vh;">Videos and Pictures featuring and demonstrating how my projects work and what they acutally do</p>
 
     {% for demo in site.data.demos %}
-    <div class="demo">
+    <div class="demo" id="{{ demo.id }}">
         <h1 class="demo-title">{{ demo.title }}</h1>
 
         {% if demo.attributes %}
