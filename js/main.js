@@ -110,7 +110,6 @@ const serverIDs = [
     15322, // Novaconomy
     15392, // PlutoChat
     17108, // StarCosmetics
-    17230, // Divisions
     18166, // BattleCards
     18713, // PlasmaEnchants
 ]
