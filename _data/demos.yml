@@ -1,3 +1,17 @@
+- id: battlecards
+  title: 🃏 BattleCards
+  attributes:
+    - name: GitHub
+      url: https://github.com/GamerCoder215/BattleCards
+      img: assets/links/github.png
+  videos:
+    - https://www.youtube.com/embed/1AAjB6AZbGc
+  pictures:
+    - assets/demos/battlecards/1.png
+    - assets/demos/battlecards/2.png
+    - assets/demos/battlecards/3.png
+    - assets/demos/battlecards/4.png
+    - assets/demos/battlecards/5.png
 - id: superadvancements
   title: 🪙 SuperAdvancements
   attributes:
@@ -65,6 +79,7 @@
       img: assets/links/mcmarket.png
   videos:
     - https://www.youtube.com/embed/_U06yymCt2w
+    - https://www.youtube.com/embed/g1naINcdTz8
   pictures:
     - https://camo.githubusercontent.com/275dc3195f06f56a31a08d6a24921b02860b2cda0ff37219240fdbfd8d953748/68747470733a2f2f6d656469612e646973636f72646170702e6e65742f6174746163686d656e74732f3839343235343736303037353630333938302f313031383638353530393431303735343630302f323032322d30392d31315f31392e34352e32372e706e67
     - https://camo.githubusercontent.com/56110a64d633f0e3f3bf0faa93f8974db5c768a1083104bff08187788c185acd/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3839343235343736303037353630333938302f313031383638353530393634313434393533322f323032322d30392d31315f31392e34352e30312e706e67
