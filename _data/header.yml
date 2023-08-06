@@ -11,6 +11,9 @@ links:
   url: /about
 
 images:
+- name: Twitter
+  img: /assets/links/twitter.png
+  url: https://twitter.com/gamercoder215
 - name: SpigotMC
   img: /assets/links/spigot_modern.png
   url: https://www.spigotmc.org/members/gamercoder215.1229877/
