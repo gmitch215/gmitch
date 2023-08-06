@@ -8,12 +8,10 @@
   git: GamerCoder215/SuperAdvancements
 - name: StarCosmetics
   git: GamerCoder215/StarCosmetics
-- name: Divisions
-  git: Team-Inceptus/Divisions
 - name: PlasmaEnchants
   git: Team-Inceptus/PlasmaEnchants
-- name: Arsenal
-  git: GamerCoder215/Arsenal
+- name: KotlinMC
+  git: GamerCoder215/KotlinMC
 - name: ServerManager
   git: GamerCoder215/ServerManager
 - name: nodejs-notebook
