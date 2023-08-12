@@ -2,11 +2,12 @@
 title: About
 layout: page
 summary: About GamerCoder
+logo: true
 ---
 
 # About GamerCoder
 
-I illustrate my passion for video games, computers, and software as a whole through the development, modification, and release of various platforms and projects that engage my users in a fun and proactice way.
+I illustrate my passion for video games, computers, and software as a whole through the development, modification, and release of various platforms and projects that engage my users in a fun and proactice way. My favorite color is lime green.
 
 As the founder of [Team Inceptus](https://teaminceptus.us), my team and I continue to bring joy through the development of modifications and game platforms through our own individual and monetary-free time. We do ask for donations, although it is not required to join our work.
 

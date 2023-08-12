@@ -2,6 +2,7 @@
 title: CV
 layout: page
 summary: Official CV
+logo: true
 ---
 
 # Gregory Mitchell
