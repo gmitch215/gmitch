@@ -16,3 +16,26 @@
         padding: 0 3vw 3vw;
     }
 }
+
+@media (max-width: 1145px) {
+
+    .header {
+        padding-top: 2vh;
+    }
+
+    .header-links {
+        flex-wrap: wrap;
+        align-items: center;
+        justify-content: center;
+        gap: 2vh 0;
+    }
+
+    .header-links-inner:not(:last-child) {
+        margin-left: 0;
+    }
+
+    .header-links-inner:not(:first-child) {
+        margin-right: 0;
+    }
+    
+}
