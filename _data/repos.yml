@@ -12,7 +12,9 @@
   git: Team-Inceptus/PlasmaEnchants
 - name: KotlinMC
   git: GamerCoder215/KotlinMC
-- name: ServerManager
-  git: GamerCoder215/ServerManager
+- name: Terminal-Miner
+  git: GamerCoder215/Terminal-Miner
+- name: SocketMC
+  git: GamerCoder215/SocketMC
 - name: nodejs-notebook
   git: brightplum/nodejs-notebook
