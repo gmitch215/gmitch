@@ -46,13 +46,14 @@ b. 2008 <br>
     - Jekyll
     - jQuery
     - discord.js (Discord API)
-    - Vue.js (Ongoing)
+    - Svelte & SvelteKit (Ongoing)
     - Electron.js (Ongoing)
   - Kotlin
     - Extension Functions
     - Interoperability with Java
     - Serialization & Deserialization
   - C++
+    - Standard C++
     - Unreal Engine 4/5 (Ongoing)
   - Other (Minimal Knowledge)
     - Go
@@ -60,13 +61,14 @@ b. 2008 <br>
     - Typescript
 - **Non-Programming**
   - Adobe Photoshop & Premiere Pro
+  - Pixel Art (PiskelApp)
   - High Learning Capacity
 
 ------------
 
 ## Education
 
-**Homewood-Flossmoor High School** -- 2022 - 2026 
+**Homewood-Flossmoor High School** -- 2022 - 2026
 
 ------------
 
@@ -137,6 +139,18 @@ Built in Java with the [Spigot API](https://spigotmc.org) and NMS for MC 1.18.2,
 Before disbanding TheNoobyGods, we also ran a Minecraft SMP (Survival Minecraft Server), and these are the main 2 server JARs that I personally developed. Both interact with NMS heavily and use many parts of the [Spigot API](https://spigotmc.org) for key features.
 
 This plugin holds a close heart to me mostly because of how few the second version lasted, and how much I wanted to change the first one. One of the plugins had helped me develop some of the popular ones I currently develop and maintain.
+
+### [super-dictionary](https://github.com/gamerCoder215/super-dictionary)
+
+*2021*
+
+A small project around a Dictionary API that I found. It's a simple asynchronously-based dictionary API.
+
+### [nodejs-notebook](https://github.com/brightplum/nodejs-notebook)
+
+*2021*
+
+My first NPM Package published in 2021. A JavaScript wrapper around editing specific code files, useful for changing code at runtime using JS. A simple project that helped teach me how to document properly. Still downloaded a little bit today, even though it is long abandoned.
 
 ### [NoobyGods (NoobyBot)](https://github.com/Team-Inceptus/NoobyGods)
 
