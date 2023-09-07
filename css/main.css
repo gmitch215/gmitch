@@ -9,12 +9,12 @@
     --bg-2: #1a1a1a;
     --bg-gradient: linear-gradient(to bottom, #1a1a1a 0%, #2a2a2a 100%);
 
-    --logo-border: 2px gold solid;
+    --logo-border: 2px white solid;
     --text: #fff;
     --subtitle: #f8f8f8;
-    --color-text: black;
+    --color-text: greenyellow;
     --color-text-2: #80bf22;
-    --link-color: red;
+    --link-color: darkgray;
     --shadow: 0 10px 20px -5px rgb(0, 0, 0);
 
     --links: linear-gradient(to top, #3f3e3e 0%, #2a2a2a 100%);
