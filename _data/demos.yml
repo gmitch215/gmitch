@@ -4,6 +4,15 @@
     - name: GitHub
       url: https://github.com/GamerCoder215/BattleCards
       img: assets/links/github.png
+    - name: SpigotMC
+      url: https://www.spigotmc.org/resources/battlecards.112454/
+      img: assets/links/spigot_modern.png
+    - name: Polymart
+      url: https://polymart.org/resource/battlecards.4749
+      img: assets/links/polymart.png
+    - name: BuiltByBit
+      url: https://builtbybit.com/resources/battlecards.31734/
+      img: assets/links/mcmarket.png
   videos:
     - https://www.youtube.com/embed/1AAjB6AZbGc
     - https://www.youtube.com/embed/juNYH00dcZ4
@@ -102,6 +111,9 @@
     - name: Polymart
       url: https://polymart.org/resource/plasmaenchants.4355
       img: assets/links/polymart.png
+    - name: BuiltByBit
+      url: https://builtbybit.com/resources/plasmaenchants.29800/
+      img: assets/links/mcmarket.png
   videos:
     - https://www.youtube.com/embed/CA6yAS6keQI
     - https://www.youtube.com/embed/YNbnKsgq6i8
