@@ -13,15 +13,18 @@ b. 2008 <br>
 [✉️ gamer@gamercoder.me](mailto:gamer@gamercoder.me) <br>
 [🌐 gamercoder.me](https://gamercoder.me) <br>
 [🖥️ github.com/GamerCoder215](https://github.com/GamerCoder215) <br>
+[📺 youtube.com/@GamerCoder](https://youtube.com/@gamercoder) <br>
+[🕓 wakatime.com/@GamerCoder](https://wakatime.com/@GamerCoder) <br>
 <a href="#" id="export-cv" class="noPrint" onclick="javascript:window.print()">📤 Export CV</a>
 
 ------------
 
 ## Sofware Development
 
-- Experience in many OOP and Functional languages, such as Java, Kotlin, C++, JavaScript, and more
-- Enjoy learning about various frameworks and APIs for future efficient development, such as Vue, ElectronJS, the Spigot API, various Google JVM APIs, Kotlin Coroutines, and more
+- Experience in many OOP and Functional languages, such as Java, Kotlin, C++, and JavaScript
+- Enjoy learning about various frameworks and APIs for future efficient development, such as Vue, ElectronJS, the Spigot API, various Google JVM APIs, Kotlin Coroutines
 - Fan of JetBrains IDEs, such as IntelliJ IDEA and WebStorm where I make JVM, NodeJS, ElectronJS, Vue, and other framework-related projects
+- Over 1400+ hours in total programming experience, including 1000+ hours in Java and 200+ hours in Kotlin
 
 ------------
 
