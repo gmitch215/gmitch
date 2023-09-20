@@ -15,6 +15,7 @@
 
         --logo-border: 2px black solid;
         --text: black;
+        --title: #aef963;
         --subtitle: gray;
         --color-text: black;
         --color-text-2: black;
@@ -27,15 +28,25 @@
     }
 
     p, li {
-        font-size: 2.5vw !important;
+        font-size: 1.6vw !important;
     }
 
     h1 {
         font-size: 7vw;
         margin-bottom: 0;
+        color: var(--text);
     }
 
     h2 {
-        font-size: 3vw;
+        font-size: 2vw;
+    }
+
+    h3 {
+        font-size: 1.8vw;
+        text-decoration: underline solid var(--title) 2px;
+    }
+
+    .page-content {
+        margin: 0 10vw;
     }
 }

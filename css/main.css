@@ -11,6 +11,7 @@
 
     --logo-border: 2px white solid;
     --text: #fff;
+    --title: var(--text);
     --subtitle: #f8f8f8;
     --color-text: greenyellow;
     --color-text-2: #80bf22;
@@ -30,6 +31,7 @@
 
     --logo-border: 2px black solid;
     --text: black;
+    --title: var(--text);
     --subtitle: gray;
     --color-text: darkgreen;
     --color-text-2: #004500;
@@ -80,6 +82,10 @@ a {
 
 a:hover {
     color: var(--link-color);
+}
+
+h1, h2, h3 {
+    color: var(--title);
 }
 
 .highlighter-rouge {
@@ -159,7 +165,7 @@ a:hover {
 }
 
 .page-content {
-    margin: 0 21vw 0
+    margin: 0 18vw;
 }
 
 /* Index */

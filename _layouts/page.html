@@ -6,9 +6,18 @@ layout: default
 <img src="/assets/gamercoder.png" class="logo-small noPrint" alt="GamerCoder" title="{{ page.summary }}">
 {% endif %}
 
+
 <div class="page">
 
     <div class="page-content">
+        {% if page.page_title %}
+        <h1>{{ page.page_title }}</h1>
+        {% endif %}
+
+        {% if page.tagline %}
+        <p class="subtitle" style="font-style: italic;">{{ page.tagline }}</p>
+        {% endif %}
+
         {{ content }}
     </div>
 
