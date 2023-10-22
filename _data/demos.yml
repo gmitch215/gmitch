@@ -5,8 +5,14 @@
       url: https://github.com/GamerCoder215/BattleCards
       img: assets/links/github.png
     - name: SpigotMC
-      url: https://www.spigotmc.org/resources/battlecards.112454/
+      url: https://www.spigotmc.org/resources/battlecards.113155/
       img: assets/links/spigot_modern.png
+    - name: Modrinth
+      url: https://modrinth.com/plugin/battlecards
+      img: assets/links/modrinth.svg
+    - name: Hangar
+      url: https://hangar.papermc.io/GamerCoder/BattleCards
+      img: assets/links/hangar.svg
     - name: Polymart
       url: https://polymart.org/resource/battlecards.4749
       img: assets/links/polymart.png
