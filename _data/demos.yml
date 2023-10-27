@@ -23,11 +23,20 @@
     - https://www.youtube.com/embed/1AAjB6AZbGc
     - https://www.youtube.com/embed/juNYH00dcZ4
   pictures:
-    - assets/demos/battlecards/1.png
-    - assets/demos/battlecards/2.png
-    - assets/demos/battlecards/3.png
-    - assets/demos/battlecards/4.png
+    - assets/demos/battlecards/14.png
+    - assets/demos/battlecards/13.png
+    - assets/demos/battlecards/12.png
+    - assets/demos/battlecards/11.png
+    - assets/demos/battlecards/10.png
+    - assets/demos/battlecards/9.png
+    - assets/demos/battlecards/8.png
+    - assets/demos/battlecards/7.png
+    - assets/demos/battlecards/6.png
     - assets/demos/battlecards/5.png
+    - assets/demos/battlecards/4.png
+    - assets/demos/battlecards/3.png
+    - assets/demos/battlecards/2.png
+    - assets/demos/battlecards/1.png
 - id: superadvancements
   title: 🪙 SuperAdvancements
   attributes:
