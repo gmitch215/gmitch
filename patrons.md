@@ -25,6 +25,6 @@ Becoming a patron is a huge milestone for us, and allows us to keep maintaining 
 
 4$ / Month
 
-tskopen \| August 2023 - Current
+tskopen \| August 2023 - October 2023
 
 Pax \| July 2023 - September 2023
