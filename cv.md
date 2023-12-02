@@ -19,7 +19,7 @@ b. 2008 <br>
 
 ## Sofware Development
 
-- Over **1,500** hours in total programming experience, including **1,000+** hours in Java and **200+** hours in Kotlin
+- Over **1,600** hours in total programming experience, including **1,000+** hours in Java and **300+** hours in Kotlin
 - Experience in many OOP and Functional languages, such as Java, Kotlin, C++, and JavaScript
 - Enjoy learning about various frameworks and APIs for future efficient development, such as Svelte, ElectronJS, the Spigot API, various Google JVM APIs, Kotlin Coroutines
 - Fan of JetBrains IDEs, such as IntelliJ IDEA and WebStorm where I make JVM, NodeJS, ElectronJS, SvelteKit, and other framework-related projects
@@ -41,19 +41,32 @@ b. 2008 <br>
     - Google Gson
     - JavaX Swing
     - Gradle (Kotin DSL)
+  - Kotlin
+    - Extension Functions
+    - Coroutines
+    - Interoperability with Java
+    - Serialization & Deserialization
   - HTML/CSS/JS
     - Node.js / Bun.sh
     - Jekyll
     - jQuery
     - discord.js (Discord API)
-  - Kotlin
-    - Extension Functions
-    - Interoperability with Java
-    - Serialization & Deserialization
 
 ------------
 
-## Recent Projects
+## Projects
+
+### [crazy2](https://github.com/GamerCoder215/crazy2)
+
+- Collection of [fritz2](https://fritz2.dev) components for easy web development
+
+### [InceptusNMS](https://github.com/Team-Inceptus/InceptusNMS)
+
+*2023 - Present*
+
+- [Kotlin](https://kotlinlang.org)-based project that emulates a [JavaDoc](https://en.wikipedia.org/wiki/Javadoc) browser using inputted JSON files.
+- Heavily utilizes [Kotlin Coroutines](https://kotlinlang.org/docs/coroutines-overview.html) for parsing dozens of files in seconds.
+- Used to document the Net-Minecraft-Server (NMS) codebase, the undocumented and unsupported internals of the Minecraft game server.
 
 ### [BattleCards](https://github.com/GamerCoder215/BattleCards)
 
@@ -63,6 +76,11 @@ b. 2008 <br>
 - Uses JVM Annotations to reduce boilerplate and duplicated code, with the [Spigot API](https://spigotmc.org)
 - Heavy use of abstraction to support Minecraft: Java Edition 1.8 and above
 - One of the first projects sold on the SpigotMC Market
+
+### [Terminal Miner](https://github.com/GamerCoder215/Terminal-Miner)
+
+- [C++](https://en.wikipedia.org/wiki/C++) Idle Game for mining materials
+- Simple game that utilizes core C++ libraries for input and output on the command line
 
 ### [PlasmaEnchants](https://github.com/Team-Inceptus/PlasmaEnchants)
 
@@ -85,7 +103,7 @@ b. 2008 <br>
 
 *2023 - Present*
 
-- A plugin which allows you to freely express yourself through a wide range of cosmetics available after completing certain tasks. 
+- A plugin which allows you to freely express yourself through a wide range of cosmetics available after completing certain tasks.
 - Made in Java with the [Spigot API](https://spigotmc.org).
 - Utilizes many components of OOP such as **Abstraction** and **Reflection** in order to support Minecraft: Java Edition 1.9+
 
@@ -96,7 +114,7 @@ b. 2008 <br>
 - A Minecraft: Java Edition API wrapper tool that makes it easy and simple to change the default AI, actions, schedules, data, and other aspects of any entity. 
 - Made in Java with the [Spigot API](https://spigotmc.org).
 - Required the use of the undocumented and unexplored parts of the Spigot API and the obfsucated Minecraft code itself.
-- An extremely popular project with over 50 stars
+- An extremely popular project with over 75 stars
 
 ### [Novaconomy](https://github.com/Team-Inceptus/Novaconomy)
 
