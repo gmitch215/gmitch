@@ -26,12 +26,6 @@ b. 2008 <br>
 
 ------------
 
-## Education
-
-**Homewood-Flossmoor High School** -- 2022 - 2026
-
-------------
-
 ## Skills
 
 - **Programming**
