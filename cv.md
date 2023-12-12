@@ -3,7 +3,7 @@ title: CV
 layout: page
 summary: Official CV
 logo: true
-page_title: Gregory Mitchell
+page_title: GamerCoder (Gregory)
 tagline: Full-Stack Software Programmer
 ---
 
