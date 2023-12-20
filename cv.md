@@ -50,9 +50,12 @@ b. 2008 <br>
 
 ## Projects
 
-### [crazy2](https://github.com/GamerCoder215/crazy2)
+### [kWidgets](https://github.com/GamerCoder215/kWidgets)
 
-- Collection of [fritz2](https://fritz2.dev) components for easy web development
+*2024 - Present*
+
+- Minecraft mod written in [Kotlin](https://kotlinlang.org) that creates widgets on the screen
+- Planned to utilize the [JNI](https://en.wikipedia.org/wiki/Java_Native_Interface) for accessing hardware details, which utilize C and C++ features
 
 ### [InceptusNMS](https://github.com/Team-Inceptus/InceptusNMS)
 
