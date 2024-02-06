@@ -50,6 +50,13 @@ b. 2008 <br>
 
 ## Projects
 
+### [KotaTime](https://github.com/GamerCoder215/KotaTime)
+
+*2023 - Present*
+
+- [WakaTime](https://wakatime.com) Desktop Client written in [JetBrains Compose](https://github.com/JetBrains/compose-multiplatform)
+- Written in the [Kotlin](https://kotlinlang.org) programming language
+
 ### [kWidgets](https://github.com/GamerCoder215/kWidgets)
 
 *2024 - Present*
@@ -59,7 +66,7 @@ b. 2008 <br>
 
 ### [InceptusNMS](https://github.com/Team-Inceptus/InceptusNMS)
 
-*2023 - Present*
+*2023*
 
 - [Kotlin](https://kotlinlang.org)-based project that emulates a [JavaDoc](https://en.wikipedia.org/wiki/Javadoc) browser using inputted JSON files.
 - Heavily utilizes [Kotlin Coroutines](https://kotlinlang.org/docs/coroutines-overview.html) for parsing dozens of files in seconds.
@@ -67,7 +74,7 @@ b. 2008 <br>
 
 ### [BattleCards](https://github.com/GamerCoder215/BattleCards)
 
-*2023 - Present*
+*2023 - 2024*
 
 - [Kotlin](https://kotlinlang.org) Project that allows you to summon "cards" to fight with and for you in the popular video game Minecraft, inspired by the stands from [JoJo's Bizarre Adventure](https://en.wikipedia.org/wiki/JoJo%27s_Bizarre_Adventure)
 - Uses JVM Annotations to reduce boilerplate and duplicated code, with the [Spigot API](https://spigotmc.org)
@@ -76,12 +83,14 @@ b. 2008 <br>
 
 ### [Terminal Miner](https://github.com/GamerCoder215/Terminal-Miner)
 
+*2023*
+
 - [C++](https://en.wikipedia.org/wiki/C++) Idle Game for mining materials
 - Simple game that utilizes core C++ libraries for input and output on the command line
 
 ### [PlasmaEnchants](https://github.com/Team-Inceptus/PlasmaEnchants)
 
-*2023 - Present*
+*2023 - 2024*
 
 - A very lightweight, simple, custom enchantments plugin for SpigotMC, and one of the first plugins I worked on to have [Kotlin Development](http://kotlinlang.org/)
 - Uses the [Spigot API](https://spigotmc.org) and [Kotlin](https://kotlinlang.org) to create a simple, yet effective plugin for Minecraft: Java Edition 1.14 and above without using NMS
@@ -90,7 +99,7 @@ b. 2008 <br>
 
 ### [SuperAdvancements](https://github.com/GamerCoder215/SuperAdvancements)
 
-*2023 - Present*
+*2023 - 2024*
 
 - A Minecraft: Java Edition Framework allows you to create custom Minecraft Advancements, the default progression system in the game.
 - Developed in Java with the [Spigot API](https://spigotmc.org)
@@ -98,7 +107,7 @@ b. 2008 <br>
 
 ### [StarCosmetics](https://github.com/GamerCoder215/StarCosmetics)
 
-*2023 - Present*
+*2023 - 2024*
 
 - A plugin which allows you to freely express yourself through a wide range of cosmetics available after completing certain tasks.
 - Made in Java with the [Spigot API](https://spigotmc.org).
@@ -106,7 +115,7 @@ b. 2008 <br>
 
 ### [MobChip](https://github.com/GamerCoder215/MobChip)
 
-*2022 - Present*
+*2022 - 2024*
 
 - A Minecraft: Java Edition API wrapper tool that makes it easy and simple to change the default AI, actions, schedules, data, and other aspects of any entity. 
 - Made in Java with the [Spigot API](https://spigotmc.org).
@@ -115,7 +124,7 @@ b. 2008 <br>
 
 ### [Novaconomy](https://github.com/Team-Inceptus/Novaconomy)
 
-*2021 - Present*
+*2021 - 2024*
 
 - One of the best plugins I have ever continued to develop is this one. It started out as a small project that was intended as a one-and-done, but I eventually decided to keep adding more features and did NOT regret it.
 - Many components of Minecraft: Java Edition and Java itself, including the use of JDBC (Java SQL), intercepting [Packets](https://wiki.vg/Protocol),using [Netty Channels](https://netty.io/4.1/api/io/netty/channel/Channel.html), YAML Storage, and the [Spigot API](https://spigotmc.org)
