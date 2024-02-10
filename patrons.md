@@ -3,19 +3,19 @@ layout: page
 logo: true
 ---
 
-# Patrons for GamerCoder215 & Team Inceptus
+# Patrons for GamerCoder
 
 ---
 
-Becoming a patron is a huge milestone for us, and allows us to keep maintaining our projects for the benefit of the community. This is a list of all of our current and historical patrons, and we thank you for your continued support!
+Thank for you supporting my work, from my Minecraft projects to my open-source libraries.
 
-## Super Inceptors
+## Ultimate
 
 20$ / Month
 
 *Become the first!*
 
-## Inceptors
+## Premium
 
 10$ / Month
 
@@ -24,6 +24,8 @@ Becoming a patron is a huge milestone for us, and allows us to keep maintaining 
 ## Supporters
 
 4$ / Month
+
+Pedro Henrique \| January 2024 - Current
 
 tskopen \| August 2023 - October 2023
 
