@@ -19,7 +19,7 @@ b. 2008 <br>
 
 ## Sofware Development
 
-- Over **1,600** hours in total programming experience, including **1,100+** hours in Java and **350+** hours in Kotlin
+- Over **1,700** hours in total programming experience, including **1,100+** hours in Java and **350+** hours in Kotlin
 - Experience in many OOP and Functional languages, such as Java, Kotlin, C++, and JavaScript
 - Enjoy learning about various frameworks and APIs for future efficient development, such as Svelte, ElectronJS, the Spigot API, various Google JVM APIs, Kotlin Coroutines
 - Fan of JetBrains IDEs, such as IntelliJ IDEA and WebStorm where I make JVM, NodeJS, ElectronJS, SvelteKit, and other framework-related projects
