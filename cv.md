@@ -20,9 +20,8 @@ b. 2008 <br>
 ## Sofware Development
 
 - Over **1,700** hours in total programming experience, including **1,100+** hours in Java and **350+** hours in Kotlin
-- Experience in many OOP and Functional languages, such as Java, Kotlin, C++, and JavaScript
-- Enjoy learning about various frameworks and APIs for future efficient development, such as Svelte, ElectronJS, the Spigot API, various Google JVM APIs, Kotlin Coroutines
-- Fan of JetBrains IDEs, such as IntelliJ IDEA and WebStorm where I make JVM, NodeJS, ElectronJS, SvelteKit, and other framework-related projects
+- Experience in many OOP and Functional languages, such as Java, Kotlin, C++, C, and JavaScript
+- Fan of JetBrains IDEs, such as IntelliJ IDEA and WebStorm where I make JVM, JS, and other framework-related projects
 
 ------------
 
@@ -31,15 +30,20 @@ b. 2008 <br>
 - **Programming**
   - Java
     - JBDC (Java Database Connectivity API)
-    - Spigot API, ForgeMC & FabricMC API
+    - Minecraft-based APIs
     - Google Gson
     - JavaX Swing
     - Gradle (Kotin DSL)
   - Kotlin
+    - KorGE Game Engine
+    - JetBrains/Jetpack Compose 
     - Extension Functions
     - Coroutines
     - Interoperability with Java
     - Serialization & Deserialization
+  - C/C++
+    - Unreal Engine 4/5
+    - Vex V5 Robot API
   - HTML/CSS/JS
     - Node.js / Bun.sh
     - Jekyll
