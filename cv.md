@@ -50,19 +50,20 @@ b. 2008 <br>
 
 ## Projects
 
+### [LevelZ File Format](https://github.com/LevelZ-File)
+
+*2024 - Present*
+
+- Game Level Format used for designing Video Game Levels
+- Supports 2D and 3D Format
+- Includes IDE Plugins, Mutli-Language Bindings & Parsers in Java, C++, JS, and More
+
 ### [KotaTime](https://github.com/GamerCoder215/KotaTime)
 
 *2023 - Present*
 
 - [WakaTime](https://wakatime.com) Desktop Client written in [JetBrains Compose](https://github.com/JetBrains/compose-multiplatform)
 - Written in the [Kotlin](https://kotlinlang.org) programming language
-
-### [kWidgets](https://github.com/GamerCoder215/kWidgets)
-
-*2024 - Present*
-
-- Minecraft mod written in [Kotlin](https://kotlinlang.org) that creates widgets on the screen
-- Planned to utilize the [JNI](https://en.wikipedia.org/wiki/Java_Native_Interface) for accessing hardware details, which utilize C and C++ features
 
 ### [InceptusNMS](https://github.com/Team-Inceptus/InceptusNMS)
 
