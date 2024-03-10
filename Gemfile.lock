@@ -1,4 +1,5 @@
 GEM
+  remote: https://rubygems.org/
   specs:
     em-websocket (0.5.3)
       eventmachine (>= 0.12.9)
@@ -31,4 +32,4 @@ DEPENDENCIES
   webrick
 
 BUNDLED WITH
-   2.1.2
+   2.1.4
