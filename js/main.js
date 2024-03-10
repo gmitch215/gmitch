@@ -13,6 +13,7 @@ let index_strs = [
     "Enjoyer of Kotlin",
     "Java Edition > Bedrock Edition",
     "Super Mario Galaxy",
+    "Hates Logbait & Hog 2.6"
 ]
 
 function getTheme() {
