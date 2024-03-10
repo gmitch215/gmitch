@@ -1,4 +1,5 @@
 ---
 layout: index
-summary: GamerCoder, fullstack developer and owner of Team Inceptus
+summary: FullStack Software Developer
+tagline: FullStack Developer & Software Engineer
 ---
