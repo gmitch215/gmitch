@@ -32,4 +32,4 @@ Bugs discovered post-release will be fixed free of charge for 30 days after the 
 
 ## Contact
 
-Feel free to [email me](mailto:gamer@gamercoder.me) about any commission requests, or DM me on [discord](https://discord.com/users/572173428086538270) as well. I am open to both sources of communication.
+Feel free to [email me](mailto:me@gmitch215.xyz) about any commission requests, or DM me on [discord](https://discord.com/users/572173428086538270) as well. I am open to both sources of communication.

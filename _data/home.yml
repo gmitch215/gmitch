@@ -8,14 +8,14 @@ repos:
   - name: java-bindings
     git: LevelZ-File/java-bindings
   - name: MobChip
-    git: GamerCoder215/MobChip
+    git: gmitch215/MobChip
   - name: cpp-bindings
     git: LevelZ-File/cpp-bindings
   - name: Novaconomy
     git: Team-Inceptus/Novaconomy
   - name: BattleCards
-    git: GamerCoder215/BattleCards
+    git: gmitch215/BattleCards
   - name: KotlinMC
-    git: GamerCoder215/KotlinMC
+    git: gmitch215/KotlinMC
   - name: Terminal-Miner
-    git: GamerCoder215/Terminal-Miner
+    git: gmitch215/Terminal-Miner

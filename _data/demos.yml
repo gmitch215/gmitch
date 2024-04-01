@@ -2,7 +2,7 @@
   title: 🃏 BattleCards
   attributes:
     - name: GitHub
-      url: https://github.com/GamerCoder215/BattleCards
+      url: https://github.com/gmitch215/BattleCards
       img: assets/links/github.png
     - name: SpigotMC
       url: https://www.spigotmc.org/resources/battlecards.113155/
@@ -11,7 +11,7 @@
       url: https://modrinth.com/plugin/battlecards
       img: assets/links/modrinth.svg
     - name: Hangar
-      url: https://hangar.papermc.io/GamerCoder/BattleCards
+      url: https://hangar.papermc.io/gmitch215/BattleCards
       img: assets/links/hangar.svg
     - name: Polymart
       url: https://polymart.org/resource/battlecards.4749
@@ -41,7 +41,7 @@
   title: 🪙 SuperAdvancements
   attributes:
     - name: GitHub
-      url: https://github.com/GamerCoder215/SuperAdvancements
+      url: https://github.com/gmitch215/SuperAdvancements
       img: assets/links/github.png
   videos:
     - https://www.youtube.com/embed/tM82KXf3Ed0
@@ -53,7 +53,7 @@
   title: ✨ StarCosmetics
   attributes:
     - name: GitHub
-      url: https://github.com/GamerCoder215/StarCosmetics
+      url: https://github.com/gmitch215/StarCosmetics
       img: assets/links/github.png
     - name: SpigotMC
       url: https://www.spigotmc.org/resources/starcosmetics.106805/
@@ -62,7 +62,7 @@
       url: https://modrinth.com/plugin/starcosmetics
       img: assets/links/modrinth.svg
     - name: Hangar
-      url: https://hangar.papermc.io/GamerCoder/StarCosmetics
+      url: https://hangar.papermc.io/gmitch215/StarCosmetics
       img: assets/links/hangar.svg
     - name: Polymart
       url: https://polymart.org/resource/starcosmetics.3252
@@ -171,7 +171,7 @@
   title: 🖊️ QuantumPen
   attributes:
     - name: GitHub
-      url: https://github.com/GamerCoder215/QuantumPen
+      url: https://github.com/gmitch215/QuantumPen
       img: assets/links/github.png
     - name: SpigotMC
       url: https://www.spigotmc.org/resources/1-18-1-quantumpen-lite.97115/

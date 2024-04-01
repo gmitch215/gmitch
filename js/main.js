@@ -81,7 +81,7 @@ const cache = {
 async function getRepos() {
     if (cache.repos !== -1) return cache.repos;
     let repos = 0;
-    let url = "https://api.github.com/users/GamerCoder215/repos";
+    let url = "https://api.github.com/users/gmitch215/repos";
     let data = JSON.parse(await makeRequest(url));
 
     for (let i = 0; i < data.length; i++) repos++;
@@ -98,7 +98,7 @@ async function getDownloads() {
     let data1 = JSON.parse(await makeRequest(url1))
     for (let i = 0; i < data1.length; i++) downloads += data1[i].downloads;
 
-    let url2 = "https://api.modrinth.com/v2/user/GamerCoder/projects"
+    let url2 = "https://api.modrinth.com/v2/user/gmitch215/projects"
     let data2 = JSON.parse(await makeRequest(url2))
     for (let i = 0; i < data2.length; i++) downloads += data2[i].downloads;
 
@@ -149,7 +149,7 @@ async function getStars() {
     if (cache.stars !== -1) return cache.stars;
     let stars = 0;
 
-    let url = "https://api.github.com/users/GamerCoder215/repos";
+    let url = "https://api.github.com/users/gmitch215/repos";
     let data = JSON.parse(await makeRequest(url));
     for (let i = 0; i < data.length; i++) stars += data[i].stargazers_count;
 
