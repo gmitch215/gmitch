@@ -19,9 +19,20 @@ b. 2008 <br>
 
 ## Sofware Development
 
-- Over **1,700** hours in total programming experience, including **1,100+** hours in Java and **350+** hours in Kotlin
+- Over **1,800** hours in total programming experience, including **1,100+** hours in Java and **350+** hours in Kotlin
 - Experience in many OOP and Functional languages, such as Java, Kotlin, C++, C, and JavaScript
 - Fan of JetBrains IDEs, such as IntelliJ IDEA and WebStorm where I make JVM, JS, and other framework-related projects
+
+## Business
+
+- [Team Inceptus](https://github.com/Team-Inceptus) \| 2020-2024
+  - Minecraft: Java Edition development platform
+  - Heavy utilizes Java, Kotlin, and Spigot API with Netty Channels and NMS
+- [Calculus Games](https://github.com/CalculusGames) \| 2024-Present
+  - Game Development Studio
+  - Utilizes KorGE Game Engine, Java, and Kotlin for game development 
+  - Creation of the [LevelZ File Format](https://github.com/LevelZ-File), which is also used often in games
+
 
 ------------
 
@@ -34,11 +45,11 @@ b. 2008 <br>
     - Google Gson
     - JavaX Swing
     - Gradle (Kotin DSL)
+    - Netty Channels
   - Kotlin
     - KorGE Game Engine
-    - JetBrains/Jetpack Compose 
-    - Extension Functions
-    - Coroutines
+    - Kotlin Multiplatform (JS, JVM, Native)
+    - Extension Functions & Coroutines
     - Interoperability with Java
     - Serialization & Deserialization
   - C/C++
@@ -49,6 +60,14 @@ b. 2008 <br>
     - Jekyll
     - jQuery
     - discord.js (Discord API)
+    - GitHub Actions
+- **IDEs**
+  - JetBrains
+    - IntelliJ IDEA Community & Ultimate
+    - WebStorm
+    - CLion
+  - Visual Studio Code
+  - Eclipse IDE for Java Developers
 
 ------------
 
@@ -61,13 +80,6 @@ b. 2008 <br>
 - Game Level Format used for designing Video Game Levels
 - Supports 2D and 3D Format
 - Includes IDE Plugins, Mutli-Language Bindings & Parsers in Java, C++, JS, and More
-
-### [KotaTime](https://github.com/gmitch215/KotaTime)
-
-*2023 - Present*
-
-- [WakaTime](https://wakatime.com) Desktop Client written in [JetBrains Compose](https://github.com/JetBrains/compose-multiplatform)
-- Written in the [Kotlin](https://kotlinlang.org) programming language
 
 ### [InceptusNMS](https://github.com/Team-Inceptus/InceptusNMS)
 
