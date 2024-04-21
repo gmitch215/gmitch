@@ -1,17 +1,12 @@
 let index_strs = [
     "Isn't afraid of OOP",
     "Loves to code",
-    "Enjoys playing Minecraft",
     "Is a fan of Rocket League",
-    "Prefers Spigot over Paper",
     "Hates Boilerplate",
-    "Is irritated with NMS",
     "Enjoyer of Java",
     "Wants to Learn",
     "JoJo's Bizarre Adventure: Stardust Crusaders",
-    "Creator of MobChip",
     "Enjoyer of Kotlin",
-    "Java Edition > Bedrock Edition",
     "Super Mario Galaxy",
     "Hates Logbait & Hog 2.6"
 ]
