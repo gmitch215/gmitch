@@ -1,5 +1,5 @@
 ---
 layout: index
-summary: FullStack Software Developer
-tagline: FullStack Developer & Software Engineer
+summary: FullStack, JVM & Game Developer since 2019
+tagline: FullStack & Game Developer since 2019
 ---
