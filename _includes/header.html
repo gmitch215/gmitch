@@ -1,6 +1,6 @@
 <header class="header noPrint">
 
-    <img id="theme-icon" onclick="switchTheme()">
+    <img id="theme-icon" onclick="switchTheme()" alt="Switch Theme" title="Switch Theme">
 
     <div class="header-links">
 
@@ -8,7 +8,7 @@
             {% assign links = site.data.header.links %}
             {% for link in links %}
 
-            <a href="{{ link.url }}" title="{{ link.name }}"class="header-link">{{ link.name }}</a>
+            <a href="{{ link.url }}" title="{{ link.name }}" class="header-link">{{ link.name }}</a>
 
             {% endfor %}
         </div>
