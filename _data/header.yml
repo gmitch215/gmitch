@@ -1,8 +1,6 @@
 links:
 - name: Home
   url: /
-- name: Demos
-  url: /demos
 - name: CV
   url: /cv
 - name: Commissions
@@ -15,16 +13,7 @@ links:
 images:
 - name: Twitter
   img: /assets/links/twitter.png
-  url: https://twitter.com/gamercoder215
-- name: SpigotMC
-  img: /assets/links/spigot_modern.png
-  url: https://www.spigotmc.org/members/gamercoder215.1229877/
-- name: Modrinth
-  img: /assets/links/modrinth.svg
-  url: https://modrinth.com/user/GamerCoder
-- name: HangarMC
-  img: /assets/links/hangar.svg
-  url: https://hangar.papermc.io/gmitch215
+  url: https://twitter.com/gmitch215
 - name: Discord
   img: /assets/links/discord.png
   url: https://discord.com/users/572173428086538270

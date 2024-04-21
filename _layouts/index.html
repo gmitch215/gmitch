@@ -11,37 +11,6 @@ layout: default
 
     <p class="break"></p>
     <p class="break"></p>
-
-    <div>
-        <h1 class="title">📀 Pinned Videos</h1>
-        <div class="demos" style="justify-content: center; width: 100%; flex-direction: row;">
-            {% assign videos = site.data.home.videos %}
-            {% for video in videos %}
-            <div>
-                <iframe class="demo-video" src="{{ video.url }}" title="{{ video.name }}" controls></iframe>
-            </div>
-            {% endfor %}
-        </div>
-    </div>
-
-    <p class="break"></p>
-    <p class="break"></p>
-
-    <div>
-        <h1 class="title" id="pinned_repos">🗃️ Pinned Repositories</h1>
-        <div class="repos">
-            {% assign repos = site.data.home.repos %}
-            {% for repo in repos %}
-            <div class="repo">
-                <a href="https://github.com/{{ repo.git }}" target="_blank" title="{{ repo.name }}">
-                    <img src="https://opengraph.githubassets.com/045ba5c69020a7ab67effadc7565e7a9b1374ea5ee31774132ed0eb7904cad4c/{{ repo.git }}" class="repo-img" alt="{{ repo.name }}">
-                </a>
-            </div>
-            {% endfor %}
-        </div>
-    </div>
-
-    <p class="break"></p>
     <p class="break"></p>
 
     <h1 class="title">Statistics</h1>
