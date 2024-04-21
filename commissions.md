@@ -16,7 +16,7 @@ I will **automatically deny** commissions with the following themes:
   - Includes other discriminatory themes and content
 - Personal Attacks, Harms or Slander
 - Malware, Spyware, Phishing or Virus-related code
-- Illegal or Unlawful themes that violate US Federal Law or UN International Law
+- Illegal or Unlawful themes that violate US Federal Law
 
 ## Pricing
 
