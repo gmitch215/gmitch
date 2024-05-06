@@ -1,6 +1,8 @@
 links:
 - name: Home
   url: /
+- name: Blog
+  url: https://blog.gmitch215.xyz
 - name: CV
   url: /cv
 - name: Commissions
