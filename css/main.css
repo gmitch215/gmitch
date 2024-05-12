@@ -168,6 +168,31 @@ h1, h2, h3 {
     margin: 0 18vw;
 }
 
+.box {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    margin-top: 2vh;
+
+    color: var(--text);
+}
+
+.banner {
+    height: auto;
+    width: 50vw;
+    justify-self: center;
+    box-shadow: var(--shadow);
+    border-radius: 5em !important;
+    transition: transform 0.5s ease-in-out;
+}
+
+.banner:hover {
+    transform: scale(1.05) rotateZ(-3deg);
+    transition: transform 0.5s ease-in-out;
+}
+
 /* Index */
 .index {
     text-align: center;
