@@ -19,7 +19,7 @@ b. 2008 <br>
 
 ## Sofware Development
 
-- Over **1,800** hours in total programming experience, including **1,100+** hours in Java and **350+** hours in Kotlin
+- Over **1,900** hours in total programming experience, including **1,100+** hours in Java and **350+** hours in Kotlin
 - Experience in many OOP and Functional languages, such as Java, Kotlin, C++, C, and JavaScript
 - Fan of JetBrains IDEs, such as IntelliJ IDEA and WebStorm where I make JVM, JS, and other framework-related projects
 
@@ -72,6 +72,14 @@ b. 2008 <br>
 ------------
 
 ## Projects
+
+### [SocketMC](https://github.com/gmitch215/SocketMC)
+
+*2024 - Present*
+
+- Server to Client communication mod and library for Minecraft: Java Edition
+- Allows plugins to directly communicate with clients using instructions
+- Allows plugins to use client information and events to create more interactive experiences
 
 ### [LevelZ File Format](https://github.com/LevelZ-File)
 
