@@ -19,7 +19,7 @@ b. 2008 <br>
 
 ## Sofware Development
 
-- Over **1,900** hours in total programming experience, including **1,100+** hours in Java and **350+** hours in Kotlin
+- Over **2,000** hours in total programming experience, including **1,100+** hours in Java and **350+** hours in Kotlin
 - Experience in many OOP and Functional languages, such as Java, Kotlin, C++, C, and JavaScript
 - Fan of JetBrains IDEs, such as IntelliJ IDEA and WebStorm where I make JVM, JS, and other framework-related projects
 
@@ -32,7 +32,6 @@ b. 2008 <br>
   - Game Development Studio
   - Utilizes KorGE Game Engine, Java, and Kotlin for game development 
   - Creation of the [LevelZ File Format](https://github.com/LevelZ-File), which is also used often in games
-
 
 ------------
 
@@ -48,7 +47,7 @@ b. 2008 <br>
     - Netty Channels
   - Kotlin
     - KorGE Game Engine
-    - Kotlin Multiplatform (JS, JVM, Native)
+    - Kotlin Multiplatform (JS, JVM, Native/Wasm)
     - Extension Functions & Coroutines
     - Interoperability with Java
     - Serialization & Deserialization
