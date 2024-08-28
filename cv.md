@@ -19,7 +19,7 @@ b. 2008 <br>
 
 ## Sofware Development
 
-- Over **2,000** hours in total programming experience, including **1,100+** hours in Java and **400+** hours in Kotlin
+- Over **2,000** hours in total programming experience, including **1,100+** hours in Java and **500+** hours in Kotlin
 - Experience in many OOP and Functional languages, such as Java, Kotlin, C++, C, and JavaScript
 - Fan of JetBrains IDEs, such as IntelliJ IDEA and WebStorm where I make JVM, JS, and other framework-related projects
 
@@ -47,7 +47,7 @@ b. 2008 <br>
     - Netty Channels
   - Kotlin
     - KorGE Game Engine
-    - Kotlin Multiplatform (JS, JVM, Native/Wasm)
+    - Kotlin Multiplatform (JS/Wasm, JVM, Native)
     - Extension Functions & Coroutines
     - Interoperability with Java
     - Serialization & Deserialization
@@ -71,6 +71,15 @@ b. 2008 <br>
 ------------
 
 ## Projects
+
+### [CodeMC](https://github.com/CodeMC)
+
+*2024 - Present*
+
+- Community Organization that provides Jenkins/Nexus Hosting for Developers
+- Created the [Backend API](https://github.com/CodeMC/API) used to automate the developer process, written in [Kotlin](https://kotlinlang.org)
+- Contributed to their [Discord Bot](https://github.com/CodeMC/Bot)
+- Collaborated as Moderator on their platform to ensure success
 
 ### [SocketMC](https://github.com/gmitch215/SocketMC)
 
