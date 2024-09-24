@@ -22,7 +22,7 @@ GEM
     rexml (3.3.6)
       strscan
     strscan (3.1.0)
-    webrick (1.8.1)
+    webrick (1.8.2)
 
 PLATFORMS
   ruby
