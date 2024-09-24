@@ -19,8 +19,8 @@ b. 2008 <br>
 
 ## Sofware Development
 
-- Over **2,000** hours in total programming experience, including **1,100+** hours in Java and **500+** hours in Kotlin
-- Experience in many OOP and Functional languages, such as Java, Kotlin, C++, C, and JavaScript
+- Over **2,100** hours in total programming experience, including **1,200+** hours in Java and **500+** hours in Kotlin
+- Experience in many OOP and Functional languages, such as Java, Kotlin, Svelte, C++, C, and JavaScript
 - Fan of JetBrains IDEs, such as IntelliJ IDEA and WebStorm where I make JVM, JS, and other framework-related projects
 
 ## Business
@@ -54,6 +54,9 @@ b. 2008 <br>
   - C/C++
     - Unreal Engine 4/5
     - Vex V5 Robot API
+  - Svelte
+    - SvelteKit
+    - Vite
   - HTML/CSS/JS
     - Node.js / Bun.sh
     - Jekyll
@@ -72,6 +75,13 @@ b. 2008 <br>
 
 ## Projects
 
+### [DocuMake](https://github.com/DocuMake)
+
+*2024 - Present*
+
+- Organization backed by [Calculus Games](https://github.com/CalculusGames) for recreating popular documentation tools from input files
+- Convert JSON, YML, and other data formats into popular documentation outputs, such as JSDoc, JavaDoc, Sphinx, and more
+
 ### [CodeMC](https://github.com/CodeMC)
 
 *2024 - Present*
@@ -88,6 +98,7 @@ b. 2008 <br>
 - Server to Client communication mod and library for Minecraft: Java Edition
 - Allows plugins to directly communicate with clients using instructions
 - Allows plugins to use client information and events to create more interactive experiences
+- Allows plugins to retrieve client information for a better game experience
 
 ### [LevelZ File Format](https://github.com/LevelZ-File)
 
@@ -95,7 +106,9 @@ b. 2008 <br>
 
 - Game Level Format used for designing Video Game Levels
 - Supports 2D and 3D Format
-- Includes IDE Plugins, Mutli-Language Bindings & Parsers in Java, C++, JS, and More
+- Includes IDE Plugins, Mutli-Language Bindings & Parsers
+  - Java, Kotlin, JavaScript, C, C++, and Python
+  - Includes a CLI tool built with Kotlin Multiplatform, and a Desktop App written in Svelte
 
 ### [InceptusNMS](https://github.com/Team-Inceptus/InceptusNMS)
 
