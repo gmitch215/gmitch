@@ -47,10 +47,11 @@ b. 2008 <br>
     - Netty Channels
   - Kotlin
     - KorGE Game Engine
-    - Kotlin Multiplatform (JS/Wasm, JVM, Native)
+    - Kotlin Multiplatform (JS, Wasm, JVM, Native)
     - Extension Functions & Coroutines
     - Interoperability with Java
     - Serialization & Deserialization
+    - Ktor Client
   - C/C++
     - Unreal Engine 4/5
     - Vex V5 Robot API
@@ -75,6 +76,23 @@ b. 2008 <br>
 
 ## Projects
 
+### [benchmarks](https://github.com/gmitch215/benchmarks)
+
+*2024 - Present*
+
+- Programming benchmarks for various languages against different problems
+- Records time spent in nanoseconds, milliseconds, or other, and outputs in a specified time
+- Written in [Kotlin](https://kotlinlang.org) to perform tests, and uses [Kandy](https://github.com/Kotlin/kandy) to create readable graphs, which uses Lets-Plot in the backend
+- Required knowledge of many different programming languages at the same time to create efficient testing
+
+### [TabroomAPI](https://github.com/gmitch215/TabroomAPI)
+
+*2024 - Present*
+
+- Library API for [tabroom.com](https://tabroom.com), a Speech & Debate platform
+- Written in [Kotlin](https://kotlinlang.org) for Multiplatform, using web scraping tools and [Ktor](https://ktor.io)
+- Proved useful during High School Debate Seasons
+  
 ### [DocuMake](https://github.com/DocuMake)
 
 *2024 - Present*
