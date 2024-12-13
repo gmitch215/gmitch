@@ -25,6 +25,9 @@ b. 2008 <br>
 
 ## Business
 
+- [brightplum](https://github.com/brightplum) \| 2019-Present
+  - Web Development with HTML, CSS and SCSS
+  - Uses Frameworks like Jekyll and Gulp 
 - [Team Inceptus](https://github.com/Team-Inceptus) \| 2020-2024
   - Minecraft: Java Edition development platform
   - Heavy utilizes Java, Kotlin, and Spigot API with Netty Channels and NMS
