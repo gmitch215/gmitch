@@ -10,7 +10,7 @@ tagline: Full-Stack Software Programmer
 b. 2008 <br>
 📍 Chicago, IL <br>
 [✉️ me@gmitch215.xyz](mailto:me@gmitch215.xyz) <br>
-[🌐 gmitch215.xyz](https://gmitch215.xyz) <br>
+[🌐 gmitch215.dev](https://gmitch215.dev) <br>
 [🖥️ github.com/gmitch215](https://github.com/gmitch215) <br>
 [🕓 wakatime.com/@gmitch215](https://wakatime.com/@gmitch215) <br>
 <a href="#" id="export-cv" class="noPrint" onclick="javascript:window.print()">📤 Export CV</a>
