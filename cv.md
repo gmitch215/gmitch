@@ -58,9 +58,6 @@ b. 2008 <br>
   - C/C++
     - Unreal Engine 4/5
     - Vex V5 Robot API
-  - Svelte
-    - SvelteKit
-    - Vite
   - HTML/CSS/JS
     - Node.js / Bun.sh
     - Jekyll
@@ -114,7 +111,7 @@ b. 2008 <br>
 
 ### [SocketMC](https://github.com/gmitch215/SocketMC)
 
-*2024 - Present*
+*2024*
 
 - Server to Client communication mod and library for Minecraft: Java Edition
 - Allows plugins to directly communicate with clients using instructions
