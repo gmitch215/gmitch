@@ -27,13 +27,13 @@ b. 2008 <br>
 
 - [brightplum](https://github.com/brightplum) \| 2019-Present
   - Web Development with HTML, CSS and SCSS
-  - Uses Frameworks like Jekyll and Gulp 
+  - Uses Frameworks like Jekyll and Gulp
 - [Team Inceptus](https://github.com/Team-Inceptus) \| 2020-2024
   - Minecraft: Java Edition development platform
   - Heavy utilizes Java, Kotlin, and Spigot API with Netty Channels and NMS
 - [Calculus Games](https://github.com/CalculusGames) \| 2024-Present
   - Game Development Studio
-  - Utilizes KorGE Game Engine, Java, and Kotlin for game development 
+  - Utilizes KorGE Game Engine, Java, and Kotlin for game development
   - Creation of the [LevelZ File Format](https://github.com/LevelZ-File), which is also used often in games
 
 ------------
@@ -56,6 +56,7 @@ b. 2008 <br>
     - Serialization & Deserialization
     - Ktor Client
   - C/C++
+    - Systems, I/O
     - Unreal Engine 4/5
     - Vex V5 Robot API
   - HTML/CSS/JS
@@ -75,6 +76,13 @@ b. 2008 <br>
 ------------
 
 ## Projects
+
+### [gitle](https://github.com/gmitch215/gitle)
+
+*2025 - Present*
+
+- Gradle Plugin written in [Kotlin](https://kotlinlang.org) that downloads artifacts to your own machine
+- Allows you to clone and use gradle artifacts that aren't published to an Artifact Repository, but are available over Git
 
 ### [benchmarks](https://github.com/gmitch215/benchmarks)
 
@@ -181,7 +189,7 @@ b. 2008 <br>
 
 *2022 - 2024*
 
-- A Minecraft: Java Edition API wrapper tool that makes it easy and simple to change the default AI, actions, schedules, data, and other aspects of any entity. 
+- A Minecraft: Java Edition API wrapper tool that makes it easy and simple to change the default AI, actions, schedules, data, and other aspects of any entity.
 - Made in Java with the [Spigot API](https://spigotmc.org).
 - Required the use of the undocumented and unexplored parts of the Spigot API and the obfsucated Minecraft code itself.
 - An extremely popular project with over 75 stars
@@ -198,7 +206,7 @@ b. 2008 <br>
 
 *2022*
 
-- The first plugin that I listed, that is sill freely available to download on my [SpigotMC Plugin Resources](https://www.spigotmc.org/members/gamercoder215.1229877/#resources). 
+- The first plugin that I listed, that is sill freely available to download on my [SpigotMC Plugin Resources](https://www.spigotmc.org/members/gamercoder215.1229877/#resources).
 - Allows you to manually modify and send Packets to players, fabricating different server events for educational, fun, and adniminstrator-related purposes
 - Built in Java with the [Spigot API](https://spigotmc.org) and NMS for MC 1.18.2, this is the first project of many.
 
@@ -212,6 +220,6 @@ b. 2008 <br>
 
 *2020 - 2022*
 
-- My first JavaScript Discord Bot projects ever that I hosted on the free hosting site [repl.it](https://replit.com). 
+- My first JavaScript Discord Bot projects ever that I hosted on the free hosting site [repl.it](https://replit.com).
 - This Discord Bot was a personal bot for a [HypixelMC](https://hypixel.net) Guild called "TheNoobyGods," which I ran before founding Team Inceptus.
 - Interacts with the [Discord API](https://discord.com/developers/docs/intro), and [mineflayer](https://github.com/PrismarineJS/mineflayer), a JS Framework that allowed you to remotely control an in-game Minecraft Account with code
